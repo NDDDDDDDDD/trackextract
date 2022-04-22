@@ -11,7 +11,7 @@ for i in urls:
     i = i.replace("\n","")
     items.append(i)
 for l in items:
-    print(f"Checking {l}")
+    print(f"\nChecking {l}")
     r = requests.post('https://blacklight.api.themarkup.org/', json ={'inUrl': f'https://{l}'})
     if r.status_code == requests.codes.ok:
         r = json.loads(r.text)
