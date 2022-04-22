@@ -5,6 +5,6 @@ Tool that extracts third-party trackers from given list of URLs
 **- [common](https://raw.githubusercontent.com/NDDDDDDDDD/trackextract/main/lists/common.txt)**
 
 
-> List created by scraping the 300 websites, in terms of traffic. It only includes third-party trackers.
+> List created by scraping ttop 300 websites, in terms of traffic. It only includes third-party trackers.
 
 > You will have to whitelist certain domains like google.com, since this list is unedited.
