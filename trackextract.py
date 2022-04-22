@@ -11,11 +11,8 @@ for i in urls:
     i = i.replace("\n","")
     items.append(i)
 for l in items:
-    if "https://" or "http://" in l:
-        r = requests.post('https://blacklight.api.themarkup.org/', json ={'inUrl': f'{l}'})
-    else:
-        r = requests.post('https://blacklight.api.themarkup.org/', json ={'inUrl': f'https://{l}'})
-    
+    r = requests.post('https://blacklight.api.themarkup.org/', json ={'inUrl': f'https://{l}'})
+    print(f"Checking {l}")
     if r.status_code == requests.codes.ok:
         r = json.loads(r.text)
         if "status': 'success'" in str(r):
@@ -27,9 +24,9 @@ for l in items:
                 thirdparty.append(line)
             c = Counter(thirdparty)
         else:
-            pass
+            print(f"{l} sent an error")
     else:
-        pass
+        print(f"{l} failed to load")
 c = Counter(thirdparty)
 c = str(c)
 c = c.split("'")
@@ -45,3 +42,4 @@ for line in c:
             file.write(f'{line}\n')
     else:
         pass
+
