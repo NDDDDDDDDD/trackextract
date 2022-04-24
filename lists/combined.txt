@@ -738,7 +738,6 @@ googleadservices.com
 googleads.g.doubleclick.net
 google-analytics.com
 googleapis.com
-google.com
 googleoptimize.com
 googlesync.permutive.com
 googletagmanager.com
@@ -1733,8 +1732,6 @@ yastatic.net
 yield-manager.browsiprod.com
 yonhelioliskor.com
 yoomoney.ru
-youtube.com
-yt3.ggpht.com
 ytzihf.com
 yul-v4.pops.fastly-insights.com
 z.cdn.trafficbass.com
