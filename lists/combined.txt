@@ -10,6 +10,7 @@
 024065e85822a44c9421f568e2685df8.safeframe.googlesyndication.com
 025-xko-469.mktoresp.com
 0272ac85-5199-4024-a555-397c3d825d95.edge.permutive.app
+029617196dda1fb4ea730d1a68b987b8.safeframe.googlesyndication.com
 0297.nl
 02fced776f4ab17fa1cdd03d5b2bb7f4.safeframe.googlesyndication.com
 031037ac909df5a1a1512482c069f544.safeframe.googlesyndication.com
@@ -18,6 +19,7 @@
 03652a59fb8a1ba05e462292b7009e25.safeframe.googlesyndication.com
 048-szw-045.mktoresp.com
 04b1e393eab3e3f73e899c82912c3893.safeframe.googlesyndication.com
+0509e5a46f7d16db3a991f115fc71fb2.safeframe.googlesyndication.com
 050b7cab004d6ac407f7b018f9bf2f9f.safeframe.googlesyndication.com
 055a0bb0-2e01-44cc-b23f-09b9a11d2bbd.sync.upravel.com
 057220163df07619fd43baa04be99890.safeframe.googlesyndication.com
@@ -35,6 +37,7 @@
 07f8b7779231502f1f31ae6c23f8e810.safeframe.googlesyndication.com
 081-atc-910.mktoresp.com
 08403457d4d38f6f3c50c2281180b616.safeframe.googlesyndication.com
+084-rrc-895.mktoresp.com
 088ca734b0f8dde892ab4145c1439dfc.safeframe.googlesyndication.com
 091b4c60fb7ead1b9049954ebdce5f2f.safeframe.googlesyndication.com
 094-cux-645.mktoresp.com
@@ -44,6 +47,7 @@
 0abbcc19af48460598e8c749d02d66f5.js.ubembed.com
 0ae0cf783a8a277ffa432f4c1eb99bb4.safeframe.googlesyndication.com
 0b2cd04c-a32e-4316-8dff-4f1aa59900bb.partner.permutive.app
+0b9e98daa7c1d7deeef6982f941e2a8c.safeframe.googlesyndication.com
 0bbb5bf3baeff58f66cb3428cea42d8d.safeframe.googlesyndication.com
 0c9525d96dab3fd2900eecd099d6438f.safeframe.googlesyndication.com
 0ce95cc364b4dd7dbe95137f31d0896a.safeframe.googlesyndication.com
@@ -53,13 +57,17 @@
 0fc0982ec3d2737d75f4c04a33b3866c.safeframe.googlesyndication.com
 0fee42934c30a9d51f2d456a494c2265.safeframe.googlesyndication.com
 0.gravatar.com
+0hh4k3md6qdvtn9fmamjitrutlxsm1650888453.nuid.imrworldwide.com
 0mmvoxva.micpn.com
 0w57c49klo5tefdw4l3nv7wihljbhmy4lir4fzqpebfc4334d5bde577sac.d.aa.online-metrix.net
 0wzfip7hqq3j3fkov1ifvmwj5ptgl1650819630.nuid.imrworldwide.com
 100001791.collect.igodigital.com
 100010552.collect.igodigital.com
+100018296.collect.igodigital.com
 100027443.collect.igodigital.com
+10030757.fls.doubleclick.net
 10032413.metrics.convertexperiments.com
+10033822.metrics.convertexperiments.com
 10037187.fls.doubleclick.net
 10049583.fls.doubleclick.net
 10085591.fls.doubleclick.net
@@ -79,7 +87,9 @@
 10289658.fls.doubleclick.net
 10291144.fls.doubleclick.net
 10312105.fls.doubleclick.net
+10346257.fls.doubleclick.net
 10353734.fls.doubleclick.net
+10425582.fls.doubleclick.net
 10486893.fls.doubleclick.net
 10501874.fls.doubleclick.net
 10580338.fls.doubleclick.net
@@ -88,6 +98,7 @@
 10608901.fls.doubleclick.net
 10609579.fls.doubleclick.net
 10612402.fls.doubleclick.net
+1065837.collect.igodigital.com
 106600.tctm.co
 10679125.fls.doubleclick.net
 106vod-adaptive.akamaized.net
@@ -98,6 +109,7 @@
 1076733febaffc5c5f33c9c5e44c8380.safeframe.googlesyndication.com
 107-coj-713.mktoresp.com
 107-fms-070.mktoresp.com
+107vod-adaptive.akamaized.net
 10858472.fls.doubleclick.net
 10870841.collect.igodigital.com
 10874022.fls.doubleclick.net
@@ -121,6 +133,7 @@
 10d165b88c737018e878d3c72028505e.safeframe.googlesyndication.com
 11060753.fls.doubleclick.net
 11109254.fls.doubleclick.net
+1111210941.rsc.cdn77.org
 11136475.fls.doubleclick.net
 11143672.fls.doubleclick.net
 1-1145-11328-1.b.cdn13.com
@@ -131,6 +144,7 @@
 112483.tctm.co
 11269198.fls.doubleclick.net
 11327342747604dfca8f393479b5d28a.safeframe.googlesyndication.com
+11378.global.siteimproveanalytics.io
 11382473.fls.doubleclick.net
 11438640.fls.doubleclick.net
 11447344-c647-4855-9011-1d04bc920c8d.widget.cluster.groovehq.com
@@ -142,6 +156,7 @@
 11575980.fls.doubleclick.net
 11601526.fls.doubleclick.net
 11620487.fls.doubleclick.net
+1163259.fls.doubleclick.net
 11660131.fls.doubleclick.net
 116vod-adaptive.akamaized.net
 117259316.intellimizeio.com
@@ -168,6 +183,7 @@
 13-58-85-87_s-23-205-106-140_ts-1650819008-clienttons-s.akamaihd.net
 136vod-adaptive.akamaized.net
 138-fqp-587.mktoresp.com
+138-uye-349.mktoresp.com
 1-394-11328-1.b.cdn13.com
 14119c513a7c6b89a6bc6e72881ad7d9.safeframe.googlesyndication.com
 142vod-adaptive.akamaized.net
@@ -189,9 +205,12 @@
 149525339.v2.pressablecdn.com
 149572954.v2.pressablecdn.com
 149611589.v2.pressablecdn.com
+149613070.v2.pressablecdn.com
 149vod-adaptive.akamaized.net
 149-wfz-676.mktoresp.com
 14ba6fdcd9250a15e04b36247464381e.safeframe.googlesyndication.com
+15203359.global.siteimproveanalytics.io
+15203573.global.siteimproveanalytics.io
 154vod-adaptive.akamaized.net
 155971df6bc349f48521544273d8e735.safeframe.googlesyndication.com
 155vod-adaptive.akamaized.net
@@ -209,9 +228,11 @@
 16gyfnpifi.execute-api.us-west-2.amazonaws.com
 171vod-adaptive.akamaized.net
 172-eeu-190.mktoresp.com
+1734811051.rsc.cdn77.org
 173bf104.akstat.io
 173bf105.akstat.io
 173bf106.akstat.io
+173bf107.akstat.io
 173bf108.akstat.io
 173bf109.akstat.io
 173bf10a.akstat.io
@@ -232,6 +253,9 @@
 178.238.112.83
 1787227.fls.doubleclick.net
 180vod-adaptive.akamaized.net
+18-117-112-209_s-23-205-106-140_ts-1650888391-clienttons-s.akamaihd.net
+18-117-112-209_s-23-205-106-170_ts-1650887500-clienttons-s.akamaihd.net
+18-117-112-209_s-23-205-106-170_ts-1650888697-clienttons-s.akamaihd.net
 18-117-228-62_s-23-205-106-170_ts-1650836528-clienttons-s.akamaihd.net
 18-117-228-62_s-23-62-230-145_ts-1650833767-clienttons-s.akamaihd.net
 18-118-133-93_s-23-205-106-170_ts-1650850225-clienttons-s.akamaihd.net
@@ -263,6 +287,7 @@
 18ad0c5b-460c-4d19-a729-dc537805538f.edge.permutive.app
 18b4521de14b03b86dd7b145db5271f6.safeframe.googlesyndication.com
 18e96763e77a7e22986745bfded14c4b.safeframe.googlesyndication.com
+190809b7d123b875d79d65693ea72698.safeframe.googlesyndication.com
 1916e323936dc0368d8f797071b17922.safeframe.googlesyndication.com
 193.148.44.114
 193.148.44.187
@@ -293,6 +318,7 @@
 1ce0420ivdaoawexelcpzosxn8mww1650827344.nuid.imrworldwide.com
 1.cms.s81c.com
 1c-report.ru
+1d3f43a34428c8df1ef1187edc858465.safeframe.googlesyndication.com
 1d5ef9e9369608f625a8-878b10192d4a956595449977ade9187d.ssl.cf2.rackcdn.com
 1d61400a7ad7dc2ce58ad3fe9b83d21b.safeframe.googlesyndication.com
 1dadac47e099f59a1d9eaef1c73dece7.safeframe.googlesyndication.com
@@ -315,10 +341,12 @@
 1s7vmel6xi.execute-api.us-east-1.amazonaws.com
 1.s81c.com
 1.traffic.maps.api.here.com
+1utysa49sprc1qb8aw184c71-wpengine.netdna-ssl.com
 1x1.a-mo.net
 1xs6qq2armbo2gw7xp2sazvn-wpengine.netdna-ssl.com
 1zfbun3s74xw2yk5nl2jymr0-wpengine.netdna-ssl.com
 2004dbe59d.nxcli.net
+200bd83eebac94fdaaca2b6b516e9797.safeframe.googlesyndication.com
 2013561.fls.doubleclick.net
 2019ayaya.com
 2021kkfa.com
@@ -330,6 +358,7 @@
 20827956p.rfihub.com
 20830676p.rfihub.com
 20833821p.rfihub.com
+208q92hckwws.statuspage.io
 209cd62b0febf2a55d40-715eb384bc6027b876e93ad33d5c5ec3.ssl.cf3.rackcdn.com
 20a024494180c152ebae27c7b41f1597.safeframe.googlesyndication.com
 20vod-adaptive.akamaized.net
@@ -352,6 +381,8 @@
 243-mrr-459.mktoresp.com
 2459647.fs1.hubspotusercontent-na1.net
 247ce72a8c6dd3e6a5d2f309dbc40974.safeframe.googlesyndication.com
+24a9468757071dab5686e69942d35d54.safeframe.googlesyndication.com
+24e985b86ba3960073833e70a8575b36.safeframe.googlesyndication.com
 2530.clients.giosgusercontent.com
 253822047730481.mateti.net
 2542116.fls.doubleclick.net
@@ -361,8 +392,11 @@
 25vod-adaptive.akamaized.net
 2660525.fs1.hubspotusercontent-na1.net
 267b06a1fde67a9ddb86bfb6b02510b0.safeframe.googlesyndication.com
+26d5c5b95593436fb88ae7c78d39f4f2.js.ubembed.com
+26d5c5b95593436fb88ae7c78d39f4f2.pages.ubembed.com
 26ff5c805c8e3ac2ecac320130478e4d.safeframe.googlesyndication.com
 2700447.fls.doubleclick.net
+274c027a041a541be878dd0c25260ced.safeframe.googlesyndication.com
 2796.global.siteimproveanalytics.io
 279934dfc7ac05f0fd2151530e7f755a.safeframe.googlesyndication.com
 27qc0ib0er.algolia.io
@@ -380,12 +414,15 @@
 2a28082a-de31-45fd-a00c-548117e422f7.edge.permutive.app
 2a7e9.v.fwmrm.net
 2a960794d5c9fd35d1ab8d35942516cd.safeframe.googlesyndication.com
+2b1f0f3fe35eee433f712b2500cc3b09.safeframe.googlesyndication.com
 2b3deb86be28ee6bab47776949d83505.safeframe.googlesyndication.com
 2.base.maps.api.here.com
 2.bp.blogspot.com
 2c44600f368a62910a03f9515b54a93e.safeframe.googlesyndication.com
 2ca0809ac7149ae2b35879d14151fb70.safeframe.googlesyndication.com
+2d74918261e4a95923b2bedd0ef034c5.safeframe.googlesyndication.com
 2df7e.v.fwmrm.net
+2e235d80e77f133770f6c4bc99619329.safeframe.googlesyndication.com
 2e3cc05c7f2ae802be7adbc05176bb5a.safeframe.googlesyndication.com
 2e4ba95d5e44a901d043700148810c0a.safeframe.googlesyndication.com
 2eb251c99ba86a637a7b4c098c54d1e5.safeframe.googlesyndication.com
@@ -429,6 +466,7 @@
 3-15-205-153_s-23-205-106-170_ts-1650877231-clienttons-s.akamaihd.net
 3-15-5-6_s-23-205-106-140_ts-1650832680-clienttons-s.akamaihd.net
 3-16-90-25_s-23-205-106-140_ts-1650884247-clienttons-s.akamaihd.net
+317da4f5033e93cabc5dcc815569ced9.safeframe.googlesyndication.com
 3-19-14-9_s-23-205-106-140_ts-1650879234-clienttons-s.akamaihd.net
 3-19-14-9_s-23-205-106-170_ts-1650881671-clienttons-s.akamaihd.net
 31cd1450d7e87ab34699a3fbf3e5f585.safeframe.googlesyndication.com
@@ -445,12 +483,14 @@
 338c3587406c7d80445e82543baa6c81.safeframe.googlesyndication.com
 338c365754dbb4f7d2c31b227b891ec5.safeframe.googlesyndication.com
 33across-match.dotomi.com
+33d8ffe0f65c905509a3f3e035377ea4.safeframe.googlesyndication.com
 33vod-adaptive.akamaized.net
 340806c0bb6d5d0a7adf37dd02c991e8.safeframe.googlesyndication.com
 341-xkp-310.mktoresp.com
 344a78frontweb.wubeizi.cc
 3478cb7f1592b32c19c5af1a47a6ca8f.safeframe.googlesyndication.com
 34c979ce0a7a04b6ba51a2aab59eaa3f.safeframe.googlesyndication.com
+34d85cc835965a86c0853131c4993c25.safeframe.googlesyndication.com
 34img.yuanjiazhi.com
 34t7ohog1z-dsn.algolia.net
 3508606.fls.doubleclick.net
@@ -466,6 +506,7 @@
 3641705.fls.doubleclick.net
 365schritte.files.wordpress.com
 366-eev-591.mktoresp.com
+3680ecc4edb552e16d585f12fe84009f.safeframe.googlesyndication.com
 3691379a5c070f610c98573bd47b9378.safeframe.googlesyndication.com
 369f22d57c5e194f1af27377409b99c3.safeframe.googlesyndication.com
 36a9d7c6cfba7c22c6a0fff91349ee61.safeframe.googlesyndication.com
@@ -490,6 +531,7 @@
 38e2942bb8430548cfa745be61fd8937.safeframe.googlesyndication.com
 391d0f25d09e9cc5c97197cbfcad6eb4.safeframe.googlesyndication.com
 3931d517babf100f1b459f0df3ae97ff.safeframe.googlesyndication.com
+3944448.fls.doubleclick.net
 3954927.fls.doubleclick.net
 3963562.fls.doubleclick.net
 3976941.fls.doubleclick.net
@@ -511,10 +553,12 @@
 3c6758be1de537a34403f7ff5b7118db.safeframe.googlesyndication.com
 3c8499835feebe343a73a550d8546aa5.safeframe.googlesyndication.com
 3cb55b48-f883-45a0-b5ae-7eb0c7cd48bd.us.u.fastly-insights.com
+3cbfed040c1e1d8d23a4cf08c8515ae8.safeframe.googlesyndication.com
 3d2fb0bd-52fc-4b75-aaf5-2d436c172540.edge.permutive.app
 3d488a25d48e6e2d35847a4863222462.safeframe.googlesyndication.com
 3dprintingwithroberrollin.com
 3e2cb28bb86dc312ad274c2bcec99beb.safeframe.googlesyndication.com
+3eeaccdf9b3b4079b2749d35c7a66029.safeframe.googlesyndication.com
 3f449df58b9b5d1cee83640348b4e5af.redinuid.imrworldwide.com
 3genrm2lpis4kazo5zgmhnlxib76cwefhygijncrfc87af11fc33618bsac.d.aa.online-metrix.net
 3.img-dpreview.com
@@ -546,6 +590,7 @@
 42f01afb050f08075ef5e851ce0deefa.safeframe.googlesyndication.com
 42f05001efcdd35ed4576fa1a0b5ce8d.safeframe.googlesyndication.com
 4351288.fls.doubleclick.net
+4361691.fls.doubleclick.net
 4362844.fls.doubleclick.net
 4378754.fls.doubleclick.net
 4382365.fls.doubleclick.net
@@ -554,6 +599,7 @@
 445eee110270295e917b511ff1836218.safeframe.googlesyndication.com
 4480978.fls.doubleclick.net
 44c98af15ace7d00d432c48780169b71.safeframe.googlesyndication.com
+44ecb2a93f8c8d15911375fc2f0b8190.safeframe.googlesyndication.com
 44ser87uhle6mo61s1qtpin7j.litix.io
 44vod-adaptive.akamaized.net
 4516568.fls.doubleclick.net
@@ -574,6 +620,7 @@
 46vod-adaptive.akamaized.net
 4704202.fls.doubleclick.net
 4706068.fls.doubleclick.net
+4711400.fls.doubleclick.net
 4721227.fls.doubleclick.net
 4727fe774afd282899e0d94b4413e448.safeframe.googlesyndication.com
 473-zye-522.mktoresp.com
@@ -608,6 +655,7 @@
 4dcbf6e0c7d79c0d8f2740352cff09e5.safeframe.googlesyndication.com
 4d.condenastdigital.com
 4e01dfd3ca0091e54cc6a3dff127a438.safeframe.googlesyndication.com
+4e0c9f14364669567ac05041b8790e5d.safeframe.googlesyndication.com
 4e61f5420a6e3d486571d3f9b1a81e65.safeframe.googlesyndication.com
 4ef5fe0eabdf89af1c0c7f162bf3d128.safeframe.googlesyndication.com
 4fddf2ae258bf53d9aca6162cede40e9.safeframe.googlesyndication.com
@@ -617,7 +665,9 @@
 4ynn7l1cfj.execute-api.us-east-1.amazonaws.com
 500-bia-880.mktoresp.com
 501-ptw-938.mktoresp.com
+5020834d77116dae77e40ca09fb106eb.safeframe.googlesyndication.com
 503092acd9ecda5b64934726bb5bb0f0.safeframe.googlesyndication.com
+5074cf9e28c617fbf48d305d75a0ba27.safeframe.googlesyndication.com
 50884d986470cfbecf7386f0b047109b.safeframe.googlesyndication.com
 509-mol-281.mktoresp.com
 50c76eb3d9dd518011205903629f5349.safeframe.googlesyndication.com
@@ -651,6 +701,7 @@
 5406241.fls.doubleclick.net
 5415590a-e50e-4a95-beee-5f4c5375800d.rlets.com
 5419318.fls.doubleclick.net
+542-fmf-412.mktoresp.com
 543-tur-919.mktoresp.com
 54598a73818f7bd1f315fb73df956d16.safeframe.googlesyndication.com
 5461224.fls.doubleclick.net
@@ -658,21 +709,29 @@
 5574a9203af348d9609d0cc5bc662b2e.safeframe.googlesyndication.com
 558620f6ff89c5c03b9d23f73315224d.safeframe.googlesyndication.com
 5597601.fls.doubleclick.net
+564-vfr-008.mktoresp.com
 5657203.fls.doubleclick.net
+566ab04748090b82259e595750794f21.safeframe.googlesyndication.com
 569520e1c1fe596ff44b679824d3fe32.safeframe.googlesyndication.com
+56d80c7e1e23b29a89c9b046d4816a90.safeframe.googlesyndication.com
 56f97f53fac01bb99e95c729b1b7e378.safeframe.googlesyndication.com
 570a8e85d36b2159357bc589cbb188b9.safeframe.googlesyndication.com
 57121.tctm.co
 578-ttx-874.mktoresp.com
+579d465240ffd621d97d6401801b78c9.safeframe.googlesyndication.com
 579-fai-132.mktoresp.com
+57df35c0621d48cab67f6010ff203c07.safeframe.googlesyndication.com
 58181cdfd5f6f0b74c83086ef852fc6c.safeframe.googlesyndication.com
+5821723bc200c17243907762c50fb946.safeframe.googlesyndication.com
 582-gou-684.mktoresp.com
 582-qhx-262.mktoresp.com
+5837ade8adcdc0ca43a2e2bf0fd4adba.safeframe.googlesyndication.com
 585-ggd-959.mktoresp.com
 5877472.fls.doubleclick.net
 5877605.fls.doubleclick.net
 5878462.fls.doubleclick.net
 5879019.fls.doubleclick.net
+5884a6f7278a7509fbcc3e86e8b8b9dd.safeframe.googlesyndication.com
 5922844f8f9f92cdcd670581dacf4d10.safeframe.googlesyndication.com
 594-atc-127.mktoresp.com
 59770d1f8d6f2c38641df3da44d18625.safeframe.googlesyndication.com
@@ -694,11 +753,14 @@
 5d2c16749acce8e23fa7e17b34df8284.safeframe.googlesyndication.com
 5d2f82fc556c0b15678a7f08c4f45204.safeframe.googlesyndication.com
 5d95307222fce2483f3f487416f25289.safeframe.googlesyndication.com
+5d9a0619d256661c3df79550ee812a62.safeframe.googlesyndication.com
 5dac232ef6611342843f4137e8d4a69e.safeframe.googlesyndication.com
 5db97dad464190d8968b5ab367650df2.safeframe.googlesyndication.com
 5dee8d912a287f03baa29e06bf6cbd65.safeframe.googlesyndication.com
 5e649e4a05551110db12a0eb2e359b07.safeframe.googlesyndication.com
+5ec2b3414e2814801a1e39cd9ced5e7f.safeframe.googlesyndication.com
 5ee2b5ffd40411cf98a54952fa4f3145c30a890c2dca9faa619f28d6.trk.sensic.net
+5efd6d1351ecc47d62d2729a4da39a56.safeframe.googlesyndication.com
 5ew8d-b3mmu.ads.tremorhub.com
 5f876161-9740-4cc8-9b64-4585990b2690.edge.permutive.app
 5faad60f67440a000cdf2347.config.smooch.io
@@ -709,8 +771,10 @@
 5xnnftkkmkckds6jdfsfym4etxlo51650826809.nuid.imrworldwide.com
 5yguhwrbi2qwelldgaatrsj4082d21650868140.nuid.imrworldwide.com
 6004851.global.siteimproveanalytics.io
+6017903.global.siteimproveanalytics.io
 6025116.global.siteimproveanalytics.io
 6025286.global.siteimproveanalytics.io
+60253f668d5ce90013e6b3af7102601f.safeframe.googlesyndication.com
 6032860.global.siteimproveanalytics.io
 6033984.fls.doubleclick.net
 6038712.fls.doubleclick.net
@@ -724,6 +788,7 @@
 6065749.global.siteimproveanalytics.io
 6067492b4481e8cde3ef5c116d7ae2be.safeframe.googlesyndication.com
 60687.publishers.tremorhub.com
+606b14da274dc40df487268fe9efcd1f.safeframe.googlesyndication.com
 608-dhv-915.mktoresp.com
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 6108318.fls.doubleclick.net
@@ -733,6 +798,7 @@
 6128914.global.siteimproveanalytics.io
 6135381.global.siteimproveanalytics.io
 61391ea4fcf89a971cb45a4ce67a919d.safeframe.googlesyndication.com
+61568046.de.ioam.de
 6192912.fls.doubleclick.net
 61bedfb80900aa45a9352054f8a39575.safeframe.googlesyndication.com
 61e92a313afbde947c2cff37c30023ea.safeframe.googlesyndication.com
@@ -750,7 +816,10 @@
 63343.global.siteimproveanalytics.io
 6355556.fls.doubleclick.net
 6372968.fls.doubleclick.net
+6398530.collect.igodigital.com
+6398530.recs.igodigital.com
 63db542f0ca505d2d3ad748354f05822.safeframe.googlesyndication.com
+63f4c137b551a3a7fc39d649882647dc.safeframe.googlesyndication.com
 6409e1f41e0b37a9b2009415374fbc63.safeframe.googlesyndication.com
 641038696a5f28173f1dad33965c8f91.safeframe.googlesyndication.com
 6427.global.siteimproveanalytics.io
@@ -770,6 +839,7 @@
 6635101.fls.doubleclick.net
 66357133.global.siteimproveanalytics.io
 6647a6d14d207f4e768d5ddb26aa50ec.safeframe.googlesyndication.com
+6679503.fls.doubleclick.net
 667d2057191805f0a6e687a6701086b0.safeframe.googlesyndication.com
 6695b29ce083d61d58ca0450d47ac4b3.safeframe.googlesyndication.com
 672294656b7a9553ed6d8e81e4af5955.safeframe.googlesyndication.com
@@ -803,6 +873,7 @@
 6afa458297d8c9308498ebd23041793a.safeframe.googlesyndication.com
 6.at.atwola.com
 6b425e703aa82eee7d44cce990d04f7e.safeframe.googlesyndication.com
+6b4300c58a90bd72c5a76adec096efb0.safeframe.googlesyndication.com
 6b69df27425d495cb47aaaf24f27503f.safeframe.googlesyndication.com
 6b6c496824d2bef339973f984c9421b9.safeframe.googlesyndication.com
 6baf5149b3f2e1ac93e428ad580697a1.safeframe.googlesyndication.com
@@ -817,17 +888,22 @@
 6f7ceefc81fda8921a197e40ca84d90c.safeframe.googlesyndication.com
 6f80df61.de.ioam.de
 6f86df4b50620d8274dfc6d8a070f21f.safeframe.googlesyndication.com
+6fb3044d16655aa00109aefaba8e1d8d.safeframe.googlesyndication.com
 6fd6e63e33ffd861f90dc32ec67fda6b.safeframe.googlesyndication.com
+6ou5cf04shgzivjcyxd8eb2hukpnn1650888366.nuid.imrworldwide.com
+6ptw49y4bq8aeysop3k49son2gs6q1650819890.nuid.imrworldwide.com
 6vod-adaptive.akamaized.net
 70151627ec8afc3cf08ef7aa9eeb47ea.safeframe.googlesyndication.com
 7060ddf03612592e29c8a44b4e2a955e.safeframe.googlesyndication.com
 706e64a9346f2dc48f7f91047ec760b4.safeframe.googlesyndication.com
 707e01a9903757cd22d6c530f2c2ebf3.safeframe.googlesyndication.com
 7095395ba64331922f9667e22cf1c2d9.safeframe.googlesyndication.com
+70a1dd55349ef12fab7d9dc9f34b3067.safeframe.googlesyndication.com
 70vod-adaptive.akamaized.net
 7122f11037c331cd353a3a7d1d047b55.safeframe.googlesyndication.com
 712-vxw-158.mktoresp.com
 713e0d4f288b7fa9a6f9d9b2ef280b48.safeframe.googlesyndication.com
+7152e51d804901aee270241cd46608ec.safeframe.googlesyndication.com
 71689048dfbf4181c10a72430f1ae34d.safeframe.googlesyndication.com
 717786.mmi360.net
 717786-tags.mmi360.net
@@ -835,11 +911,13 @@
 7207763.collect.igodigital.com
 7236711.collect.igodigital.com
 72438.global.siteimproveanalytics.io
+727-wrl-406.mktoresp.com
 727-zqe-044.mktoresp.com
 72db40b319b0063dd793cb2dc94a9e7b.safeframe.googlesyndication.com
 72vod-adaptive.akamaized.net
 738-oex-476.mktoresp.com
 73vod-adaptive.akamaized.net
+742e89542baed4477682e391a0270771.safeframe.googlesyndication.com
 749-crl-641.mktoresp.com
 74vod-adaptive.akamaized.net
 750-dqh-528.mktoresp.com
@@ -847,6 +925,7 @@
 759165658269e7c1f4fbf097a51807f4.safeframe.googlesyndication.com
 75a8c7cd8c12ea26f5f76054aa6b2477.safeframe.googlesyndication.com
 75fa03a5192598751013cae6e0e03346.safeframe.googlesyndication.com
+76bf3b0eb1c2c2bc93cf158a5fa68794.safeframe.googlesyndication.com
 76ccc9e4eaf0da62511fb0d2f21468a1.safeframe.googlesyndication.com
 76cdf58dfcffbf37e87acdaecf9c56a8.safeframe.googlesyndication.com
 76vod-adaptive.akamaized.net
@@ -859,17 +938,20 @@
 79423.analytics.edgekey.net
 799-iob-883.mktoresp.com
 79vod-adaptive.akamaized.net
+7a56fcb9e029b9bd2cc170606e9d969d.safeframe.googlesyndication.com
 7b7aee0542e5086e7cf6307ff9a6990d.safeframe.googlesyndication.com
 7bd545f23164490cb2a47903c367e15a.safeframe.googlesyndication.com
 7c17446dd75639b5cc5d1912929b7162.safeframe.googlesyndication.com
 7c2d68d91e1421e5f65a722cd6368999.safeframe.googlesyndication.com
 7d8e275bd27d6ead0320d9efd81098b9.safeframe.googlesyndication.com
+7de41bc9b4de319e0d687c52b7088fcc.safeframe.googlesyndication.com
 7dfae056f5576b2a8e97f0b189fc35d4.safeframe.googlesyndication.com
 7f42ccf2e7d726cad67f3ed01db0bae0.safeframe.googlesyndication.com
 7nrixfj6.micpn.com
 802-ijn-240.mktoresp.com
 80352.global.siteimproveanalytics.io
 8036043.fls.doubleclick.net
+803ef2152f011c47398a3e0c48dff241.safeframe.googlesyndication.com
 80579.global.siteimproveanalytics.io
 805fe900fd85bb520b33783d5458fc95.safeframe.googlesyndication.com
 805-ptz-019.mktoresp.com
@@ -887,6 +969,7 @@
 8147271.fls.doubleclick.net
 8168974.fls.doubleclick.net
 81vod-adaptive.akamaized.net
+8209133.fls.doubleclick.net
 82250d54718b0bb8d5732b2978839e31.safeframe.googlesyndication.com
 8235431.fls.doubleclick.net
 823-tws-984.mktoresp.com
@@ -894,11 +977,14 @@
 8272590.fls.doubleclick.net
 8273501.fls.doubleclick.net
 827d813df4cfde3a9fb9291245bf422c.safeframe.googlesyndication.com
+828-gcw-581.mktoresp.com
 8296686.fls.doubleclick.net
+82vod-adaptive.akamaized.net
 83.229.254.40
 83e3061a507f2951f2ab5ff2572b224b.safeframe.googlesyndication.com
 844e9ade8eb8bda4e82e8b7a7984038a.safeframe.googlesyndication.com
 8481d7a87a5002f2f63479cb3a09c189.safeframe.googlesyndication.com
+8487007.fls.doubleclick.net
 8531376.fls.doubleclick.net
 8541648.fls.doubleclick.net
 8548005.fls.doubleclick.net
@@ -910,7 +996,9 @@
 867-slg-901.mktoresp.com
 874-krk-232.mktoresp.com
 8755222.fls.doubleclick.net
+8791530.fls.doubleclick.net
 87d59cb951ab7369d60436f377252133.safeframe.googlesyndication.com
+8843c0b52b1f9edc5a3ef679dbe1e110.safeframe.googlesyndication.com
 8861376.fs1.hubspotusercontent-na1.net
 8879538.fls.doubleclick.net
 8889547.fls.doubleclick.net
@@ -920,13 +1008,17 @@
 8906.global.siteimproveanalytics.io
 89.108.121.3
 89228d1b5d27f9eb0ce3b70004dffda0.safeframe.googlesyndication.com
+8955449.fls.doubleclick.net
 8966610.fls.doubleclick.net
+8966771.fls.doubleclick.net
 89838.tctm.co
 89b043387087f4fea7500ff7dfeb4dbc.safeframe.googlesyndication.com
 8a0szb8sf7taihnqlqcf0ufqb9yjv1650872771.darnuid.imrworldwide.com
 8a959c0bb61d391f50585f59831b1c7b.safeframe.googlesyndication.com
+8aa4005159fe753648c7ab9300ee7db5.safeframe.googlesyndication.com
 8ab0a26cb0027939bcf5-49c99c3c0c9c98b3365b710757036e1b.ssl.cf5.rackcdn.com
 8ae94d7419cc31a09eb6d627d6df25b4.safeframe.googlesyndication.com
+8afbe4554b253130ee04f1339567b2f0.safeframe.googlesyndication.com
 8b551ea316e8d0b80a0d0c20ea2f281e.safeframe.googlesyndication.com
 8b7dea457a8428701a0ccf02c3b184b5.safeframe.googlesyndication.com
 8c77dd1a001da29533e9e130649cdefd.safeframe.googlesyndication.com
@@ -934,11 +1026,13 @@
 8df94a24b93578e37bcd4e4704a8a4af.safeframe.googlesyndication.com
 8e17237ae07c07bb41388f368cfd05a1.safeframe.googlesyndication.com
 8e500f5ce31f6ebae8f14ef38010f1db.safeframe.googlesyndication.com
+8e8524b5722d4e4480f529cf0539640c.safeframe.googlesyndication.com
 8eed95a799c120cba5a9aa7e48df494e.safeframe.googlesyndication.com
 8end6z63gjmndhj4qeu3zu6i0s9za1650880699.darnuid.imrworldwide.com
 8vod-adaptive.akamaized.net
 9001543.fls.doubleclick.net
 9017243.fls.doubleclick.net
+9032655.fls.doubleclick.net
 9033912.fls.doubleclick.net
 9063344.fls.doubleclick.net
 9075392.fls.doubleclick.net
@@ -954,6 +1048,7 @@
 9150300.fls.doubleclick.net
 9163167.fls.doubleclick.net
 918-fod-433.mktoresp.com
+9200540.fls.doubleclick.net
 9200789.fls.doubleclick.net
 9207840.fls.doubleclick.net
 920ce12d8d955df3a9e41f8f0a6eef3d.safeframe.googlesyndication.com
@@ -964,12 +1059,14 @@
 9264223.fls.doubleclick.net
 928cb133946d9db3a3a87dc702eeac17.safeframe.googlesyndication.com
 9293948.fls.doubleclick.net
+929a73e289ae91dfb53754cefd6316ed.safeframe.googlesyndication.com
 931-eka-218.mktoresp.com
 9321158.fls.doubleclick.net
 9347dbb512d9a1abf07d98e26827ebed.safeframe.googlesyndication.com
 93bf8ecf2717d303f83238fc00cbfae7.safeframe.googlesyndication.com
 9401320.fls.doubleclick.net
 9418626.fls.doubleclick.net
+9420829.fls.doubleclick.net
 947e32d4437a71ca54790c269936aa8a.safeframe.googlesyndication.com
 947-rke-048.mktoresp.com
 94e35f9722714417bc03a9584e880990-53e1270541f5.cdn.forter.com
@@ -987,12 +1084,14 @@
 9615939.fls.doubleclick.net
 9628652.fls.doubleclick.net
 9632645.fls.doubleclick.net
+964-wfu-818.mktoresp.com
 9654943.fls.doubleclick.net
 966-vyb-418.mktoresp.com
 9681786.fls.doubleclick.net
 96c8b4e587a5743e43258f5b7c11cf1d.safeframe.googlesyndication.com
 96vod-adaptive.akamaized.net
 9721666.fls.doubleclick.net
+9740.clrt.ai
 9747aa104a059e3726bb845c642c4488.safeframe.googlesyndication.com
 9762106.fls.doubleclick.net
 9772552.fls.doubleclick.net
@@ -1014,11 +1113,13 @@
 98vod-adaptive.akamaized.net
 9910737.fls.doubleclick.net
 9910951.fls.doubleclick.net
+991552449393a4ec52b8056c6a881944.safeframe.googlesyndication.com
 9918867.fls.doubleclick.net
 9920570.fls.doubleclick.net
 9935087.fls.doubleclick.net
 997113242a6eb88c2dfd0e19fc543ec6.safeframe.googlesyndication.com
 9982455.fls.doubleclick.net
+998766.fls.doubleclick.net
 999-dnx-265.mktoresp.com
 99af1dbd3f18d38605f921963244be95.safeframe.googlesyndication.com
 99b3061c7ef21c8736bf07229c67d003.safeframe.googlesyndication.com
@@ -1042,6 +1143,7 @@
 9f720f5663de1688865b4a8e91e17b0b.safeframe.googlesyndication.com
 9fd7fa7db4ed95c2e022477a3b9fca3b.safeframe.googlesyndication.com
 9fe187fa80659015f997018c75002a4b.safeframe.googlesyndication.com
+9ioacg5nhe-dsn.algolia.net
 9l9rqalw.micpn.com
 9to5googleprod.disqus.com
 9to5maccom.disqus.com
@@ -1064,6 +1166,7 @@ a15432930010.cdn.optimizely.com
 a15784060578.cdn.optimizely.com
 a158dab7addaed0cffaec002ac3b07d4.safeframe.googlesyndication.com
 a16488430484.cdn.optimizely.com
+a166688199.cdn.optimizely.com
 a16854766608.cdn.optimizely.com
 a16c1075f04032b388e20f86345b462c.safeframe.googlesyndication.com
 a1706490390.cdn.optimizely.com
@@ -1075,6 +1178,7 @@ a1859790579.cdn.optimizely.com
 a19065870423.cdn.optimizely.com
 a19205964212.cdn.optimizely.com
 a19947277778.cdn.optimizely.com
+a19960974376.cdn.optimizely.com
 a1.api.bbc.co.uk
 a1.b0e8.com
 a1-images.myspacecdn.com
@@ -1082,6 +1186,7 @@ a1.nyt.com
 a1.sndcdn.com
 a20230885901.cdn.optimizely.com
 a20673560014.cdn.optimizely.com
+a20976504213.cdn.optimizely.com
 a21006071257.cdn.optimizely.com
 a2178f718131b64c34a6373593c23ef4.safeframe.googlesyndication.com
 a2320460149.cdn.optimizely.com
@@ -1095,8 +1200,12 @@ a2-images.myspacecdn.com
 a2.tvspielfilm.de
 a308705246.cdn.optimizely.com
 a3533800155.cdn-pci.optimizely.com
+a37ac814faec326d97f2ae8224385f9b.safeframe.googlesyndication.com
+a3e9484f5b8897e047c2c61f373b1a68.safeframe.googlesyndication.com
 a3-images.myspacecdn.com
 a3.pubguru.net
+a3qsf2y6d5-dsn.algolia.net
+a400912536.cdn.optimizely.com
 a40.usablenet.com
 a42806793.cdn.optimizely.com
 a452833861f2570aa104bb3af0996758.safeframe.googlesyndication.com
@@ -1114,6 +1223,7 @@ a5fb4c72a52475cd2494021f2cbe9026.safeframe.googlesyndication.com
 a6082066.cdn.optimizely.com
 a61107cfba1de66d1fff0fb862d5e027.safeframe.googlesyndication.com
 a64bcebbfee66443e520101b4b67faf2.safeframe.googlesyndication.com
+a6931781924.cdn.optimizely.com
 a6.mylivechat.com
 a7331003.cdn.optimizely.com
 a7398083153.cdn.optimizely.com
@@ -1124,6 +1234,7 @@ a7c4d411f44b5bc45a47b3676179012e9.profile.yvr50-c1.cloudfront.net
 a7f8160a7881c162d283c7ecf22fcf66.safeframe.googlesyndication.com
 a7.org
 a8109351330.cdn.optimizely.com
+a8392372.cdn.optimizely.com
 a83ce9c8393a5786a1df6769987de5fb.safeframe.googlesyndication.com
 a8447815042.cdn-pci.optimizely.com
 a8e86f5976c465ad450030013fb88e4d.safeframe.googlesyndication.com
@@ -1132,6 +1243,7 @@ a9846b015fcb6adf91aa2ba966fa2283.safeframe.googlesyndication.com
 a989617545.cdn.optimizely.com
 a99ed243d98b68247907adfce1b7bb21.safeframe.googlesyndication.com
 a9ec066f.de.ioam.de
+a9ffde8af50c4fffd63192f82d29ed43.safeframe.googlesyndication.com
 aa12e479ddc531bc6866f7ced1dec1c8.safeframe.googlesyndication.com
 aa3b5931845f8677e7854e718f9fe4b8.safeframe.googlesyndication.com
 a.a47b.com
@@ -1175,6 +1287,7 @@ ac9194e69696d3a624b62c7382dde460.safeframe.googlesyndication.com
 academia.trendmd.com
 a.c.appier.net
 ac.audiencerun.com
+acb6d5878f8feab3e97e7b87575a9214.safeframe.googlesyndication.com
 accdn.lpsnmedia.net
 accenture.demdex.net
 accenture.tt.omtrdc.net
@@ -1184,9 +1297,11 @@ accessibly.onthemapmarketing.com
 account.psplugin.com
 accounts.firefox.com
 accounts.google.com
+accounts.indianexpress.com
 accounts.livechatinc.com
 account.snatchbot.me
 accounts.pinterest.com
+accounts.staging.livechatinc.com
 accounts.youtube.com
 accounts.zoho.com.au
 accounts.zoho.eu
@@ -1244,6 +1359,7 @@ adameve.attn.tv
 ad.appier.net
 ad.as.amanad.adtdp.com
 ad.atdmt.com
+ad-auris-logging-db-l72twop3ra-uc.a.run.app
 adb2waycm-atl.netmng.com
 adb52d0c7c233d357a56dd293d683a5b.safeframe.googlesyndication.com
 adcdn.ster.nl
@@ -1251,6 +1367,7 @@ adchiever.com
 ad.crwdcntrl.net
 add97e1df3eefabe0d5b6b3008e9e2b8.safeframe.googlesyndication.com
 ad-delivery.net
+ad-dickssportinggoods-prod.tagdelivery.com
 addkt-d.openx.net
 ad.doubleclick.net
 addsearch.com
@@ -1269,6 +1386,7 @@ adfox-hb-bidder.rutarget.ru
 adidas.d3.sc.omtrdc.net
 adidas.my.salesforce.com
 adidas.njih.net
+a.dilcdn.com
 ad.ipredictive.com
 a.disquscdn.com
 adk.graphics
@@ -1311,6 +1429,7 @@ ads.adfox.ru
 ads.adlook.me
 ads.adthrive.com
 ads.adventive.com
+ads.anura.io
 ads.avct.cloud
 ads.avocet.io
 ads.betweendigital.com
@@ -1350,6 +1469,7 @@ ads.stickyadstv.com
 ads.supplyframe.com
 ads.travelaudience.com
 adstune.com
+adstxt.orangeclickmedia.com
 ads.undertone.com
 ads.urban-media.com
 ads.us.criteo.com
@@ -1411,12 +1531,14 @@ aggregator.service.usercentrics.eu
 aghtag.tech
 ag.innovid.com
 agscomunica.com
+ai1.ivy-cdn.com
 a-iad.1rx.io
 a-iad2.1rx.io
 a.imgvc.com
 a.impactradius-go.com
 a.impactradius-tag.com
 airairgu.com
+airbus-sas-privacy.my.onetrust.com
 airvisual.com
 aj1090.online
 aj.acrosspf.com
@@ -1430,6 +1552,7 @@ a.jimdo.com
 ajoutezvotresite.com
 ajs.a47b.com
 a.jsrdn.com
+ajyale.com
 ak01-promo-cdn.slidely.com
 ak02-promo-cdn.slidely.com
 ak02-video-cdn.slidely.com
@@ -1498,6 +1621,7 @@ amk2ppqx3ycq2ytft4gq-p1bsd1-a633e99ed-clientnsv4-s.akamaihd.net
 amk2ppqxbsiraytfttka-pbv8h1-ce03e9206-clientnsv4-s.akamaihd.net
 aml.valuecommerce.com
 amobee-partners.tremorhub.com
+amp.akamaized.net
 amp.azure.net
 ampcid.google.com
 amplify-imp.outbrain.com
@@ -1517,6 +1641,7 @@ analytics.audioeye.com
 analytics.cdn.aimediagroup.com
 analytics.cloud.coveo.com
 analytics.codigo.se
+analytics.convertlanguage.com
 analytics.foresee.com
 analytics.getshogun.com
 analytics.google.com
@@ -1602,6 +1727,7 @@ api2.fonts.com
 api2-lk8.tr8ngames.com
 api2.solutionshindsight.net
 api2.weather.com
+api3488.d41.co
 api3847.d41.co
 api3.weather.com
 api4241.d41.co
@@ -1663,10 +1789,13 @@ api.dable.io
 api.darksky.net
 api.datamuse.com
 api.datasteam.io
+api.deep.bi
 api.demandbase.com
 api.demand.supply
+api.disney.com
 api.dmcdn.net
 api.dtstmio.com
+api-esp-ap.piano.io
 api-esp.piano.io
 api.etts.sh
 api-eu1.hubapi.com
@@ -1681,6 +1810,7 @@ api.floors.dev
 api.fouanalytics.com
 api.found.ee
 api.fpjs.io
+api-fra.livechatinc.com
 api.freshaddress.biz
 api.fullcontact.com
 api.gannett-cdn.com
@@ -1785,6 +1915,7 @@ api.route.com
 api-router.kaspersky-labs.com
 api.rudderlabs.com
 api.s81c.com
+api.saambaa.com
 api.saasexch.com
 api.sail-personalize.com
 api.sail-track.com
@@ -1810,11 +1941,13 @@ apis.quantcast.mgr.consensu.org
 apis.rbxcdn.com
 api.stacksocial.com
 api.stack-sonar.com
+api.staging.livechatinc.com
 api.statsig.com
 api.survicate.com
 api.swiftype.com
 api.taboola.com
 api.taps.io
+api.theadex.com
 api.tiles.mapbox.com
 api.tintup.com
 api.tinypass.com
@@ -1835,6 +1968,7 @@ api.userway.org
 api-v2.mutinyhq.io
 apiv2.popupsmart.com
 api-v3.tinypass.com
+api-v4.trbo.com
 api.viafoura.co
 api.videoask.com
 api.viglink.com
@@ -1849,6 +1983,7 @@ api-widget.soundcloud.com
 api.ww.com
 a.pixiv.org
 api.xtremepush.com
+api.yieldlove-ad-serving.net
 api.zencast.fm
 a.plerdy.com
 ap.lijit.com
@@ -1885,6 +2020,7 @@ app-easy-product-downloads.fr
 app-eu1.hubspot.com
 app.eu.securiti.ai
 app.feedblitz.com
+app.freshmarketer.com
 app.getresponse.com
 app.getsitecontrol.com
 app.getwoohoo.com
@@ -1917,6 +2053,7 @@ app.powerbi.com
 app.provely.io
 app.purechat.com
 app.qualified.com
+app.quotemedia.com
 app.replain.cc
 app.rightmessage.com
 apps1.nejmcareercenter.org
@@ -1924,6 +2061,7 @@ app.salescamp.io
 apps.apple.com
 apps.bazaarvoice.com
 app-script.monsido.com
+apps.developermedia.com
 apps.elfsight.com
 app.sendsafely.com
 app-sj07.marketo.com
@@ -1942,6 +2080,7 @@ apps.pixelunion.net
 apps.rokt.com
 apps.sophi.io
 apps.zineone.com
+app.termly.io
 app.trustami.com
 app-usa-modeast-prod-a01239f-ecas.s3.amazonaws.com
 app.usercentrics.eu
@@ -1955,6 +2094,7 @@ apv-launcher.minute.ly
 apx.moatads.com
 aqfer.lijit.com
 aq-sp-api.knotch.it
+aqua.venusrevival.com
 a.quora.com
 architecturaldigest.com
 archive.org
@@ -1963,6 +2103,7 @@ arc.msn.com
 ardalpha.de
 ardrone.swoop.com
 a.realsrv.com
+a.remarketstats.com
 a.rfihub.com
 argus-fra1.snigelweb.com
 ariane.abtasty.com
@@ -1981,6 +2122,7 @@ a.sfdcstatic.com
 as.gettyservices.com
 asia.adform.net
 asia.creativecdn.com
+as.innity.com
 asin.ta2o.net
 as.jivox.com
 ask-d.openx.net
@@ -2057,19 +2199,23 @@ assets.hearstapps.com
 assets.homedepot-static.com
 assetshuluimcom-a.akamaihd.net
 assets.i-scmp.com
+assets.iu.edu
 assets.jimstatic.com
 assets.jivox.com
 assets-jpcust.jwpsrv.com
 assets.juicer.io
 assets.kochava.com
+assets.law360news.com
 assets.ldscdn.org
 assets.livemixr.com
+assets.livereload.com
 assets.macysassets.com
 assets.map.brightcove.com
 assets.market-storefront.envato-static.com
 assets.mcomnyapps.net
 assets.medicalnewstoday.com
 assets.medpagetoday.net
+assets.netizen.co
 assetsnffrgf-a.akamaihd.net
 assets.nflxext.com
 assets.nhs.uk
@@ -2090,6 +2236,7 @@ assets.qualified.com
 assets.queue-it.net
 assets.rampmetrics.com
 assets.replain.cc
+assets.resultspage.com
 assets.revcontent.com
 assets.revlifter.io
 assets.roadsidemultimedia.com
@@ -2131,6 +2278,7 @@ assoc-amazon.jp
 associatedpress-d.openx.net
 assoc-na.associates-amazon.com
 asss-t.zchcr7942slw-blue.com
+a-stat.appmifile.com
 astatic.ccmbg.com
 astg.widerplanet.com
 a.storyblok.com
@@ -2149,6 +2297,7 @@ a.thumbs.redditmedia.com
 a.tile.openstreetmap.org
 at.iocnt.net
 atlas-dev.s3.amazonaws.com
+atlas.jifo.co
 atlassian.com
 atlas-stg.geoplatform.gov
 atl-global.atlassian.com
@@ -2162,6 +2311,7 @@ a.trstplse.com
 atr.veritonicmetrics.com
 ats.everesttech.net
 ats.rlcdn.com
+at.staticfiles.at
 ats-wrapper.privacymanager.io
 at.teads.tv
 attr.ml-api.io
@@ -2205,11 +2355,14 @@ avatars1.githubusercontent.com
 avatars2.githubusercontent.com
 avatars.99static.com
 avatars.mds.yandex.net
+avd.innity.com
+avd.innity.net
 avex.jp
 a.vidoomy.com
 avsplow.com
 aw.dw.impact-ad.jp
 awid9mr9fd.execute-api.us-east-1.amazonaws.com
+a.wishabi.com
 awltovhc.com
 awmonitor.com
 awsstatreporter.com
@@ -2222,9 +2375,12 @@ azetbd4r.micpn.com
 azucarera.matomo.cloud
 b0bf3062cbb399c71a7ae8ee0de322d5.safeframe.googlesyndication.com
 b0e8c9e694b4666bf4c85e3ed79a1efd.safeframe.googlesyndication.com
+b0eacec1d3ee2fd0bc63de315d219e3c.safeframe.googlesyndication.com
+b0ml7g848r-dsn.algolia.net
 b1043ba09f5a3c361108381a26dc1b90.safeframe.googlesyndication.com
 b1a98acbb8dd6e3f7984db54910f70fb.safeframe.googlesyndication.com
 b1h-apac1.zemanta.com
+b1h-euc1.zemanta.com
 b1h.zemanta.com
 b1img.com
 b1sync.zemanta.com
@@ -2305,6 +2461,8 @@ bd89567e8d1d4727932403fd80578a58.js.ubembed.com
 bdc2020.o0bc.com
 bdi.dlpdomain.com
 be54a597-6b6d-4e2d-9d31-642310a8db25.edge.permutive.app
+be695b084731db441225c0a8c723223d.safeframe.googlesyndication.com
+bea64f256b91c352239a68e5fe566532.safeframe.googlesyndication.com
 beacon.cdnma.com
 beacon.deepintent.com
 beacon-iad2.rubiconproject.com
@@ -2317,6 +2475,8 @@ beacons.extremereach.io
 beacon.sojern.com
 beacon.tru.am
 beacon-v2.helpscout.net
+beagleider.tamedia.link
+beagle.prod.tda.link
 beam.hubvisor.io
 beam.koddi.com
 beap-bc.yahoo.com
@@ -2332,6 +2492,7 @@ berliner-und-pfannkuchen.podigee.io
 besmeargleor.com
 bestbuy.demdex.net
 bestcollegeway.com
+betanews.disqus.com
 betotodilea.com
 bf08412nhq.bf.dynatrace.com
 bf15fd7fad878e1bdcbe274cacbcb7c7.safeframe.googlesyndication.com
@@ -2347,6 +2508,7 @@ bh4d9od16a-dsn.algolia.net
 b.hatena.ne.jp
 bh.contextweb.com
 b-hls-09.doppiocdn.com
+b.hlserve.com
 bh-medscape-cdn.contextweb.com
 bia.brightinfo.com
 biblegateway-d.openx.net
@@ -2355,6 +2517,7 @@ bid.contextweb.com
 bidder.criteo.com
 bidder.rtk.io
 biddr.brealtime.com
+biddr-cloud.brealtime.com
 bid.g.doubleclick.net
 bids.concert.io
 bids.proper.io
@@ -2413,12 +2576,17 @@ boston-d.openx.net
 bostonglobe-prod.cdn.arcpublishing.com
 bos-v4.pops.fastly-insights.com
 botcdn.xola.com
+bot.ivy.ai
 bot.xola.com
 box.demdex.net
 boxinc.tt.omtrdc.net
+box.zendesk.com
 bpi.rtactivate.com
 bpt.webedia-group.com
 brain.foresee.com
+brainyquote-d.openx.net
+brand-sdk.kmsmep.com
+brands.kmsmep.com
 bran-media.canalplus.pro
 bravest-warriors.creator-spring.com
 braze-images.com
@@ -2438,6 +2606,7 @@ b.scorecardresearch.com
 b.sharethrough.com
 bs.serving-sys.com
 bstatic.com
+b.staticfiles.at
 b.stats.paypal.com
 b.st-hatena.com
 b.stripecdn.com
@@ -2462,6 +2631,7 @@ builderall-offer.com
 builder-assets.unbounce.com
 builder.lift.acquia.com
 bullseye.backbeatmedia.com
+bundeskanzler.de
 bundler.nice-team.net
 bundler.wix-code.com
 bursaanalizcom.teimg.com
@@ -2489,6 +2659,7 @@ bytesed.com
 bywe2.byside.com
 bzmedia.cz
 c0.adalyser.com
+c0dd88718a188dcd09238823ebb1b51e.safeframe.googlesyndication.com
 c0.iggcdn.com
 c0.pubmine.com
 c0.wp.com
@@ -2505,6 +2676,7 @@ c1.sfdcstatic.com
 c1.vip-stores.com
 c212.net
 c21lg-d.media.net
+c249f9f6e857a26b094e2107b7190849.safeframe.googlesyndication.com
 c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com
 c2-ap.piano.io
 c2cacc7ed6ebbe92d661e0c2bb1ea108.safeframe.googlesyndication.com
@@ -2527,12 +2699,15 @@ c45dde7411227f235fddcbba4921c624f5fdf8b3056901e7f1690549.trk.sensic.net
 c4t.cc
 c50e7fa901947950d6836154d1bccc2f.safeframe.googlesyndication.com
 c5aaa7b1c540fd7f9f8119dcfef70f3d.safeframe.googlesyndication.com
+c5.adalyser.com
 c5.patreon.com
 c5.rgstatic.net
 c5x8i7c7.ssl.hwcdn.net
+c618ac5afc973fd4e74433700ead5870.safeframe.googlesyndication.com
 c63d69820e12d9915ef609deeee1b707.safeframe.googlesyndication.com
 c66ac44dcd4217a105ad33302d2b915c.safeframe.googlesyndication.com
 c67596bb53b5a0d9e1429eba640465ee.safeframe.googlesyndication.com
+c6f3f16d308def7a258c6bdd3473dfbb.safeframe.googlesyndication.com
 c6.patreon.com
 c6.paypal.com
 c.6sc.co
@@ -2543,6 +2718,7 @@ c.aaxads.com
 cache1.value-domain.com
 cache.betweendigital.com
 cache.consentframework.com
+cache.pressmailing.net
 cache.sellwild.com
 cache.send.microadinc.com
 cache-ssl.celtra.com
@@ -2570,6 +2746,7 @@ canada.demdex.net
 canada-drives.my.salesforce.com
 canada.sc.omtrdc.net
 canada.tt.omtrdc.net
+capablecup.com
 capi.connatix.com
 capitalone-resources.digital-cloud.medallia.com
 capitaloneservices.demdex.net
@@ -2625,6 +2802,7 @@ cc.cdn.civiccomputing.com
 ccda0e66d4c5ce95f5fd41c7d6cdf0bd.safeframe.googlesyndication.com
 ccdn.brightedge.com
 ccds3bucket.s3.us-east-2.amazonaws.com
+ccfa5ae8052f5ba41242c977a20186bd.safeframe.googlesyndication.com
 c.channelexco.com
 c.cintnetworks.com
 c.clarity.ms
@@ -2671,6 +2849,8 @@ cdn1.affirm.com
 cdn1.bigcommerce.com
 cdn1.blovcdn.com
 cdn1.browsee.io
+cdn1.btrstatic.com
+cdn1.customads.co
 cdn1.dan.com
 cdn1.edgedatg.com
 cdn1.esetstatic.com
@@ -2688,8 +2868,10 @@ cdn1.vox-cdn.com
 cdn2.admatic.com.tr
 cdn2.bildirt.com
 cdn2.blovcdn.com
+cdn2.btrstatic.com
 cdn2.bustle.com
 cdn2c.bustle.com
+cdn2.customads.co
 cdn2.dan.com
 cdn2.editmysite.com
 cdn2.esetstatic.com
@@ -2711,6 +2893,7 @@ cdn.480app.com
 cdn4.buysellads.net
 cdn4.fireworktv.com
 cdn4-hbs.affinitymatrix.com
+cdn4.mxpnl.com
 cdn4.telegram-cdn.org
 cdn4.userzoom.com
 cdn5.admatic.com.tr
@@ -2752,8 +2935,10 @@ cdn.apartmenttherapy.info
 cdn-apdbf.nitrocdn.com
 cdnapisec.kaltura.com
 cdn.api.twitter.com
+cdn-api.weglot.com
 cdn.appconsent.io
 cdn.appdynamics.com
+cdn-ap.piano.io
 cdn.apple-cloudkit.com
 cdn.appsflyer.com
 cdn.arstechnica.net
@@ -2769,6 +2954,7 @@ cdn.autoketing.org
 cdn.automatad.com
 cdn.avmws.com
 cdn.ayc0zsm69431gfebd.xyz
+cdn-a.yieldlove.com
 cdn.b0e8.com
 cdn-bajac.nitrocdn.com
 cdn.bc0a.com
@@ -2787,6 +2973,7 @@ cdn.bluecore.com
 cdn.boomtrain.com
 cdn.branch.io
 cdn.brandmetrics.com
+cdn.braze.eu
 cdn.britepool.com
 cdn.browsee.io
 cdn.browsiprod.com
@@ -2800,11 +2987,13 @@ cdn.c212.net
 cdn.callbackhunter.com
 cdn.callrail.com
 cdn.calltrk.com
+cdn.candid.org
 cdn.caprofitx.com
 cdn.carbonads.com
 cdn-cbbmk.nitrocdn.com
 cdn-cbc-v3.conductrics.com
 cdn-cedexis.video.aetnd.com
+cdn-cf-east.streamable.com
 cdn-cfenb.nitrocdn.com
 cdn.cfptaddons.com
 cdn.chatbot.com
@@ -2816,6 +3005,7 @@ cdn-client.medium.com
 cdn.clinch.co
 cdn.cliqueinc.com
 cdn.cloudflare.steamstatic.com
+cdn.cloudmetro.com
 cdn.cohesionapps.com
 cdn.concert.io
 cdn.connectad.io
@@ -2872,6 +3062,7 @@ cdn.ex.co
 cdn.f5.com
 cdn-fafon.nitrocdn.com
 cdn-fcdch.nitrocdn.com
+cdn.fdsk.co
 cdn.feathr.co
 cdn.feedify.net
 cdn.feeds.ibt.com
@@ -2883,8 +3074,10 @@ cdn.flashtalking.com
 cdn.flipboard.com
 cdn.flip-pay.com
 cdn.fonts.net
+cdn.foundationcenter.org
 cdn.foxycart.com
 cdn.fqtag.com
+cdn.freshmarketer.com
 cdn.fundraiseup.com
 cdn.funnelytics.io
 cdn.fuseplatform.net
@@ -2914,7 +3107,9 @@ cdn.hextom.com
 cdn.hubvisor.io
 cdn.hypemarks.com
 cdn.id5-sync.com
+cdn.idealo.com
 cdn-images.mailchimp.com
+cdn.innity.net
 cdn.innovativelanguage.com
 cdn-in.pagesense.io
 cdn.insight.sitefinity.com
@@ -2959,6 +3154,7 @@ cdn.lightwidget.com
 cdn.linearicons.com
 cdn.listrakbi.com
 cdn.livechatinc.com
+cdn.livechat-static.com
 cdn-live.conductor.com
 cdn.lmiutil.com
 cdn.loc.gov
@@ -2969,6 +3165,7 @@ cdn.madkudu.com
 cdn-magiclinks.trackonomics.net
 cdn.mailerlite.com
 cdn.makleraccess.de
+cdn.mapster.me
 cdn.maptiler.com
 cdn.marketlinc.com
 cdn-marketools.plus500.com
@@ -2977,6 +3174,7 @@ cdn.mateti.net
 cdn.mathjax.org
 cdn.matomo.cloud
 cdn.maximus.mobkoi.com
+cdn.media.disneyatoz.com
 cdn.mediavine.com
 cdn.mediavoice.com
 cdn.megadata.co.kr
@@ -3005,8 +3203,11 @@ cdn.omniconvert.com
 cdn.onesignal.com
 cdn.onthe.io
 cdn.opecloud.com
+cdn.opencmp.net
 cdn.opinary.com
+cdn-ops.verloop.io
 cdn.optimizely.com
+cdn.orangeclickmedia.com
 cdn.oreillystatic.com
 cdn.oribi.io
 cdn.otstatic.com
@@ -3029,10 +3230,12 @@ cdn.permutive.com
 cdn.petametrics.com
 cdn.piano.io
 cdn.pixfuture.com
+cdn.plaid.com
 cdn.playbuzz.com
 cdn.player.fm
 cdn.playwire.com
 cdn.plus500.com
+cdn-plus.roxot-panel.com
 cdn.plyr.io
 cdn.p-n.io
 cdn.podia.com
@@ -3040,6 +3243,7 @@ cdn.podigee.com
 cdn.polyfill.io
 cdn.popt.in
 cdn.pricespider.com
+cdn.printfriendly.com
 cdn.privacy-mgmt.com
 cdn.prod2.kustomerhostedcontent.com
 cdn-prod.eu.securiti.ai
@@ -3050,16 +3254,19 @@ cdn-promote.weebly.com
 cdn.provesrc.com
 cdn.pubexchange.com
 cdn.pubguru.com
+cdn-public.sociabble.com
 cdn.publisher1st.com
 cdn.pulsetic.com
 cdn.purpleads.io
 cdn.pushalert.co
 cdn.pushcrew.com
 cdn.pushnami.com
+cdn.pushwoosh.com
 cdn.quantummetric.com
 cdn.ravenjs.com
 cdn.rawgit.com
 cdn.raygun.io
+cdn.readme.io
 cdn.reamaze.com
 cdn.refersion.com
 cdn.registerdisney.go.com
@@ -3071,6 +3278,7 @@ cdn.revcontent.com
 cdn.revjet.com
 cdn.rhombusads.com
 cdn.rlets.com
+cdn.roirevolution.com
 cdn.rollbar.com
 cdn.routeapp.io
 cdn.rtbrain.app
@@ -3103,6 +3311,7 @@ cdn.siftscience.com
 cdns-images.dzcdn.net
 cdn.simplecast.com
 cdn.sitesearch360.com
+cdn.skcrtxr.com
 cdn.skypack.dev
 cdn.slidesharecdn.com
 cdn.slpht.com
@@ -3130,6 +3339,7 @@ cdn.staticfile.org
 cdn.static.zdbb.net
 cdn.stickyadstv.com
 cdn.storygize.net
+cdn.stroeerdigitalgroup.de
 cdn.stumble-upon.com
 cdnstyles.com
 cdn.subscribers.com
@@ -3141,13 +3351,17 @@ cdn.syndication.twimg.com
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.tapad.app
+cdn.tapnative.com
 cdn-tc.33across.com
 cdn.thisiswaldo.com
 cdn.threadloom.com
+cdn.thumbtackstatic.com
 cdn.tinypass.com
 cdn.tkrconnector.com
+cdn.tmobile.com
 cdn.topsrvimp.com
 cdn.tp-staging.net
+cdn.trackjs.com
 cdn.tradepending.com
 cdn.transcend.io
 cdn.treasuredata.com
@@ -3161,6 +3375,7 @@ cdn.tynt.com
 cdn-ukwest.onetrust.com
 cdn.undertone.com
 cdn.unid.go.com
+cdn.unitycms.io
 cdn.usehero.com
 cdn-usent.kampyle.com
 cdn.useproof.com
@@ -3197,6 +3412,7 @@ cdn.zappy.app
 cdn.ziffstatic.com
 cdn.zopim.com
 cdpapi.hindustantimes.com
+c.dpgmedia.net
 cdp.in.treasuredata.com
 cds.connatix.com
 cds.taboola.com
@@ -3205,6 +3421,7 @@ ce1.uicdn.net
 cec7049eea18c6ada8b5321d13c549d7.safeframe.googlesyndication.com
 ced-ns.sascdn.com
 ced.sascdn.com
+cee80934140cd2a9986df541ac1fdb86.safeframe.googlesyndication.com
 c.ekstatic.net
 ce.lijit.com
 celtraidentity.com
@@ -3239,6 +3456,7 @@ c.go-fet.ch
 c.go-mpulse.net
 channel4.com.ssl.sc.omtrdc.net
 channel4.demdex.net
+charitywater.attn.tv
 chart.apis.google.com
 chart.googleapis.com
 chase.com
@@ -3286,6 +3504,9 @@ cisco-tags.cisco.com
 ciscowebex.demdex.net
 cj26ipqx2wpbmytfxftq-pra7ni-75935efb8-clientnsv4-s.akamaihd.net
 cj26ipvn36r5cytfyqya-px4xg3-1c3330db5-clientnsv4-s.akamaihd.net
+cj2xbuix3vejqytgr3dq-p3devb-c339b23eb-clientnsv4-s.akamaihd.net
+cj2xbuix3vejqytgrnga-p8nf6f-62b19578b-clientnsv4-s.akamaihd.net
+cj2xbuixfxutgytgr74q-pba6ia-a57713ef2-clientnsv4-s.akamaihd.net
 cj32mmqx2wpaqytfvdna-pu5pp5-300e0f2f8-clientnsv4-s.akamaihd.net
 cj32mmqxbsiqsytfwoma-pxhsm9-0b553fada-clientnsv4-s.akamaihd.net
 cj3ikxix2wpaqytf7gyq-p08dvm-d54896e1a-clientnsv4-s.akamaihd.net
@@ -3383,6 +3604,7 @@ cm.igaw.io
 cm.ipinyou.com
 cm.meba.kr
 cm.mgid.com
+cm.p.altergeo.ru
 cmp.osano.com
 cmp.prisa.com
 cms.analytics.yahoo.com
@@ -3394,6 +3616,7 @@ cms.quantserve.com
 cms-xch.33across.com
 cms-xch-chicago.33across.com
 cm.teads.tv
+c.nativendo.de
 c.ndtvimg.com
 cnet.com
 cnet-d.openx.net
@@ -3429,6 +3652,7 @@ codex.nflxext.com
 code-ya.jivosite.com
 codicebusiness.shinystat.com
 codice.shinystat.com
+cognito-identity.ap-southeast-1.amazonaws.com
 cognito-identity.eu-west-1.amazonaws.com
 cognito-identity.us-east-1.amazonaws.com
 coindesk-coindesk-prod.cdn.arcpublishing.com
@@ -3445,6 +3669,8 @@ collector-12811.tvsquared.com
 collector-12817.tvsquared.com
 collector-1564.tvsquared.com
 collector-16238.us.tvsquared.com
+collector-17894.us.tvsquared.com
+collector-21091.us.tvsquared.com
 collector-2519.tvsquared.com
 collector2.sophi.io
 collector-3549.tvsquared.com
@@ -3455,6 +3681,7 @@ collector-905.tvsquared.com
 collector-9267.us.tvsquared.com
 collector-9510.us.tvsquared.com
 collector.brandmetrics.com
+collector.cint.com
 collector.getyourguide.com
 collector.github.com
 collector-px2e972lwz.px-client.net
@@ -3489,6 +3716,7 @@ collector-pxyo6yjwlb.px-cloud.net
 collector.sheknows.com
 collector.sophi.io
 collect.tealiumiq.com
+collect.trbo.com
 collect-us-east-1.tealiumiq.com
 collect-v6.51.la
 colossusssp.com
@@ -3557,6 +3785,7 @@ consent.trustarc.com
 consent.truste.com
 consent.umusic.com
 constantcontact-app.quantummetric.com
+consumer.healthday.com
 consumerinfo.tt.omtrdc.net
 consumer.krxd.net
 consumersunion.demdex.net
@@ -3570,6 +3799,7 @@ content.asos-media.com
 content.avplayer.com
 content.bettersex.com
 content.cdn.targetspot.com
+contentdsp.com
 content.googleapis.com
 content.govdelivery.com
 contentgrid.thdstatic.com
@@ -3604,11 +3834,16 @@ cookie-stream.ipp-meredith.com
 cookiesync.mparticle.com
 coolwallet.io
 c.oracleinfinity.io
+core.dpa-infocom.net
 core-renderer-tiles.maps.yandex.net
 core-sat.maps.yandex.net
+coronabox.engagement-prod.stroeerws.de
 cors.uicdn.net
+corus.hb.omtrdc.net
+cosmos.marfeel.com
 costco-bc-ta.a.lucidworks.cloud
 costco.tt.omtrdc.net
+couchsurfing.zendesk.com
 councilbbb.demdex.net
 councilbbb.tt.omtrdc.net
 count.api.pgs.io
@@ -3665,6 +3900,7 @@ crm.zoho.com
 cropper.watch.aetnd.com
 crossmark-cdn.crossref.org
 crowdsignal.com
+cr-p31.ladsp.jp
 cryptohopper.com
 cryptopro.ru
 cryptoventurenewsc75609.zapwp.com
@@ -3684,6 +3920,7 @@ c.singular.net
 cs.krushmedia.com
 cs.liiift.io
 cs.lkqd.net
+csm.cxpublic.com
 c.s-microsoft.com
 csm.us.criteo.net
 csm.va.us.criteo.net
@@ -3704,6 +3941,7 @@ c.statcounter.com
 csxd.contentsquare.net
 csync.loopme.me
 csync.smilewanted.com
+csyn.cxense.com
 c.tadst.com
 cta-service-cms2.hubspot.com
 ct.captcha-delivery.com
@@ -3724,6 +3962,7 @@ culturetrip.zendesk.com
 curator-assets.b-cdn.net
 currency.prebid.org
 cursvalutar.ro
+customads.co
 custom-choppers-guide.com
 customer.api.drift.com
 customer.api.eu.drift.com
@@ -3735,6 +3974,7 @@ cvent.demdex.net
 c.videoamp.com
 cvision.media.net
 cw.addthis.com
+cw-contentful-assets.imgix.net
 c.webengage.com
 cyberagent-usd-d.openx.net
 c.ypcdn.com
@@ -3755,9 +3995,11 @@ d15035178f17ffcb9ed54b1e12e8e4a1.safeframe.googlesyndication.com
 d15ctoga0kn40d.cloudfront.net
 d15kdpgjg3unno.cloudfront.net
 d15omoko64skxi.cloudfront.net
+d15qhc0lu1ghnk.cloudfront.net
 d15tnd3q55f8nl.cloudfront.net
 d1639lhkj5l89m.cloudfront.net
 d169bbxks24g2u.cloudfront.net
+d16fk4ms6rqz1v.cloudfront.net
 d16xpr36wrmcmk.cloudfront.net
 d17wd0umvxxjds.cloudfront.net
 d196fri2z18sm.cloudfront.net
@@ -3778,11 +4020,13 @@ d1bxh8uas1mnw7.cloudfront.net
 d1c5qktmphn2d.cloudfront.net
 d1d5ef6c7d74a132478b00af034b0c88.safeframe.googlesyndication.com
 d1di2lzuh97fh2.cloudfront.net
+d1dve5icbq0xf0.cloudfront.net
 d1eipm3vz40hy0.cloudfront.net
 d1ekrxlws13em5.cloudfront.net
 d1eoo1tco6rr5e.cloudfront.net
 d1epsz32winqbo.cloudfront.net
 d1eu30co0ohy4w.cloudfront.net
+d1f8f9xcsvx3ha.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1fdloi71mui9q.cloudfront.net
 d1gkberomxrum0.cloudfront.net
@@ -3805,6 +4049,7 @@ d1nxn87txdj54y.cloudfront.net
 d1otoma47x30pg.cloudfront.net
 d1qbcxjje42ta1.cloudfront.net
 d1qbemlbhjecig.cloudfront.net
+d1rabrmvm0ggsd.cloudfront.net
 d1rgjmn2wmqeif.cloudfront.net
 d1rx8vrt2hn1hc.cloudfront.net
 d1rytvr7gmk1sx.cloudfront.net
@@ -3817,6 +4062,7 @@ d1t40axu4ik42k.cloudfront.net
 d1tgh0bjda3egq.cloudfront.net
 d1v4jtnvxv2013.cloudfront.net
 d1vl8wytztdz.cloudfront.net
+d1voyiv1eh2vzr.cloudfront.net
 d1wa9546y9kg0n.cloudfront.net
 d1y4ng3lozj2yp.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
@@ -3825,6 +4071,7 @@ d1zokzhal29fpg.cloudfront.net
 d207bzo2lz83l1.cloudfront.net
 d20vwa69zln1wj.cloudfront.net
 d21m4dsqdd3b9h.cloudfront.net
+d21y75miwcfqoq.cloudfront.net
 d226aj4ao1t61q.cloudfront.net
 d22dvihj4pfop3.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
@@ -3837,6 +4084,7 @@ d25jl8yaav4s0u.cloudfront.net
 d25lqe4mlyaln6.cloudfront.net
 d25oniaj7o2jcw.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
+d26opx5dl8t69i.cloudfront.net
 d275im4r3zngba.cloudfront.net
 d27i7n2isjbnbi.cloudfront.net
 d28efpdu2tk2gz.cloudfront.net
@@ -3874,12 +4122,14 @@ d2oh4tlt9mrke9.cloudfront.net
 d2ok2u3bz752mp.cloudfront.net
 d2p0wcnq2kgjhj.cloudfront.net
 d2q79iu7y748jz.cloudfront.net
+d2qbf73089ujv4.cloudfront.net
 d2qmp7jjpd79k7.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rp1k1dldbai6.cloudfront.net
 d2slcw3kip6qmk.cloudfront.net
 d2sofvawe08yqg.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
+d2to6hixdjym3d.cloudfront.net
 d2tqm71z2plwas.cloudfront.net
 d2twjzbevf8hdx.cloudfront.net
 d2tym8aqod56lu.cloudfront.net
@@ -3889,6 +4139,7 @@ d2v02itv0y9u9t.cloudfront.net
 d2v83son8kay5v.cloudfront.net
 d2vnkn0bfhsarv.cloudfront.net
 d2vxvnufz8f5c5.cloudfront.net
+d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2x3xhvgiqkx42.cloudfront.net
 d2yyd1h5u9mauk.cloudfront.net
@@ -3905,6 +4156,7 @@ d31y97ze264gaa.cloudfront.net
 d3216uwaav9lg7.cloudfront.net
 d330aiyvva2oww.cloudfront.net
 d334ae6533e80c1d49cae7ab739248b0.safeframe.googlesyndication.com
+d33veqcui7lu1w.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d33xdlntwy0kbs.cloudfront.net
 d342d3bba1cc4780cfc05a2dcf8ce52f.safeframe.googlesyndication.com
@@ -3945,6 +4197,7 @@ d3mmnnn9s2dcmq.cloudfront.net
 d3n32ilufxuvd1.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3nfodagugxf3s.cloudfront.net
+d3njgrq4uvb497.cloudfront.net
 d3njjcbhbojbot.cloudfront.net
 d3nn82uaxijpm6.cloudfront.net
 d3pp6wtm1nk365.cloudfront.net
@@ -3956,6 +4209,7 @@ d3rr3d0n31t48m.cloudfront.net
 d3rse9xjbp8270.cloudfront.net
 d3rxaij56vjege.cloudfront.net
 d3sth6z2715rxf.cloudfront.net
+d3t95n9c6zzriw.cloudfront.net
 d3tcip5b7fs19l.cloudfront.net
 d3terveqlssriz.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
@@ -3980,6 +4234,7 @@ d5phz18u4wuww.cloudfront.net
 d5x2n72glkaxl.cloudfront.net
 d5zu2f4xvqanl.cloudfront.net
 d61291daa660b04fa12ad40a59cbf816.safeframe.googlesyndication.com
+d6d9cae15730cc62e3867935218ca177.safeframe.googlesyndication.com
 d6scj24zvfbbo.cloudfront.net
 d6tizftlrpuof.cloudfront.net
 d761erxl2qywg.cloudfront.net
@@ -3988,13 +4243,17 @@ d7bb261d8b64de8e792bb90a9880930d.safeframe.googlesyndication.com
 d7cxvscusq782.cloudfront.net
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d7hftxdivxxvm.cloudfront.net
+d82052496d6555a043add1f17bc535f0.safeframe.googlesyndication.com
 d823cc7187d188d8ab32661dee25ad06.safeframe.googlesyndication.com
 d845c88a8dd0244ac848bc90c27d62f5.safeframe.googlesyndication.com
+d865mdswip-dsn.algolia.net
 d87e71bb963a8bbb2f965dd358a873ab.safeframe.googlesyndication.com
 d8b7b2e9fc6a3db525b13d3cd3985996.safeframe.googlesyndication.com
+d8dc451b2e5c507accc933b68ff30b3f.safeframe.googlesyndication.com
 d8f124778b60c488a2026da2435e1943.safeframe.googlesyndication.com
 d8g345wuhgd7e.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
+d952cmcgwqsjf.cloudfront.net
 d969df0e60105b4925866f638c286965.safeframe.googlesyndication.com
 d987c7b878ab3ca280e5eb353aeddbfa.safeframe.googlesyndication.com
 d9ba5f05e70b8e8d09dd5aa7507ece3d.safeframe.googlesyndication.com
@@ -4003,6 +4262,7 @@ d9hhrg4mnvzow.cloudfront.net
 d9i9nmwzijaw9.cloudfront.net
 d9jj3mjthpub.cloudfront.net
 da2680fc8ace44fd512e389cc5a6397b.safeframe.googlesyndication.com
+da6d32076628b04573374f10a823048c.safeframe.googlesyndication.com
 da.codenet.one
 d.adroll.com
 d.agkn.com
@@ -4018,6 +4278,8 @@ dap.digitalgov.gov
 dap.hindustantimes.com
 d-art.ppstatic.pl
 daserste.de
+dasg7xwmldix6.cloudfront.net
+dash.37signals.com
 dashboard-doc-upload.s3.eu-central-1.amazonaws.com
 dashboard.presspatron.com
 dashboard.push7.jp
@@ -4037,6 +4299,7 @@ datadoghq-browser-agent.com
 data.eu.pendo.io
 data.getgist.com
 data.gosquared.com
+data.indianexpress.com
 data.ontario.ca
 data.pendo.io
 dataplane.rum.eu-west-1.amazonaws.com
@@ -4088,6 +4351,7 @@ ddfhyekk53l1c.cloudfront.net
 dd-gift.herokuapp.com
 ddla593ymz72o.cloudfront.net
 ddrvjrfwnij7n.cloudfront.net
+ddzuuyx7zj81k.cloudfront.net
 de1f1l5l72ecp.cloudfront.net
 de1-s2s.sensic.net
 de2a9dfa7da41552d1fddbafc925743a.safeframe.googlesyndication.com
@@ -4100,6 +4364,7 @@ decf6129-ce73-4f8b-b097-565af27539a3.us.u.fastly-insights.com
 decision.ns1.video.aetnd.com
 de-config.sensic.net
 decorhanoi.com
+deepl.zendesk.com
 delivery-cdn-cf.adswizz.com
 delivery.consentmanager.net
 dell-gcm.appspot.com
@@ -4112,10 +4377,13 @@ demo.febrisuryanto.com
 demo.themexpert.com
 denbraven.cz
 dend1j8r0lsi.cloudfront.net
+dep-collector-dot-hm-group-appeng.ew.r.appspot.com
 derechoavivirbusiness.files.wordpress.com
 dergradmesser.podigee.io
+deseret.technoratimedia.com
 designlab.jakroo.com
 de.tynt.com
+dev.appboy.com
 dev-as.cluep.com
 dev.buzzfeed.io
 dev-dig-exp-api.dev.guccidigital.io
@@ -4127,6 +4395,7 @@ dev-era-184513.ew.r.appspot.com
 deviceid.trueleadid.com
 device.maxmind.com
 devimages-cdn.apple.com
+dev-platform.livechatinc.com
 dev-to-uploads.s3.amazonaws.com
 dev.virtualearth.net
 dev.visualwebsiteoptimizer.com
@@ -4135,18 +4404,25 @@ df45ay5pw60dy.cloudfront.net
 df4a341b859f068885f818dbd87feaed.safeframe.googlesyndication.com
 df80k0z3fi8zg.cloudfront.net
 dfaef13857797c60d396b8b36bd84f5c.safeframe.googlesyndication.com
+dfcdths9j2gip.cloudfront.net
 dfo.fsrar.gov.ru
+dfon51l7zffjj.cloudfront.net
 dfp.bouncex.net
 df.unzipmenow.com
 dh1rvgpokacch.cloudfront.net
 dhs.gov
 dianomi.com
+dickssportinggoods.demdex.net
+dicks-sporting-goods.ryvx.net
+di-dtaectolog-us-prod-1.appspot.com
 diffuser-cdn.app-us1.com
 digicert.demdex.net
 digikulture-d.openx.net
 digitalbrandinginstitute.disqus.com
 digitalfeedback.euro.confirmit.com
+digital.flytedesk.com
 digitalmarketing.dea-eng-prod.nikecloud.com
+digitalphotographyschool.disqus.com
 digitalservices.ap.org
 dik9apo3gh1t7.cloudfront.net
 dimages.cds.amcn.com
@@ -4154,6 +4430,7 @@ d.impactradius-event.com
 d-ipv6.mmapiws.com
 direct.adsrvr.org
 directadvert.ru
+direct.dy-api.com
 direct-events-collector.spot.im
 direct.wgrvisitor.se
 di.rlcdn.com
@@ -4183,6 +4460,7 @@ dk98ddgl0znzm.cloudfront.net
 dka01xuembdnx.cloudfront.net
 dka575ofm4ao0.cloudfront.net
 dkr0d30ggygt1.cloudfront.net
+dks.scene7.com
 d.la1-c1-cdg.salesforceliveagent.com
 d.la1-c1-ia5.salesforceliveagent.com
 d.la1-c2-fra.salesforceliveagent.com
@@ -4203,8 +4481,10 @@ d.la3-c2-dfw.salesforceliveagent.com
 d.la3-c2-fra.salesforceliveagent.com
 d.la3-c2-ia5.salesforceliveagent.com
 d.la3-c2-phx.salesforceliveagent.com
+d.la4-c1-ph2.salesforceliveagent.com
 d.la4-c1-was.salesforceliveagent.com
 d.la4-c2-ia5.salesforceliveagent.com
+d.la4-c2-ph2.salesforceliveagent.com
 d.la4-c3-ph2.salesforceliveagent.com
 d.la4-c4-ia2.salesforceliveagent.com
 d.la5-c1-ia4.salesforceliveagent.com
@@ -4236,9 +4516,11 @@ dmx.districtm.io
 dmxleo.dailymotion.com
 dmx.us-east-32.districtm.io
 dna8twue3dlxq.cloudfront.net
+d.nativendo.de
 dnn506yrbagrg.cloudfront.net
 dns-sgksxvii4.sombrero.yahoo.net
 dntcl.qualaroo.com
+doc-08-2s-sheets.googleusercontent.com
 docrdsfx76ssb.cloudfront.net
 docs.fss.ru
 docs.google.com
@@ -4263,6 +4545,8 @@ dorianmarko.com
 dot-routed.firebaseapp.com
 doublethedonation.com
 doug1izaerwt3.cloudfront.net
+dovetail3-cdn.prxu.org
+dovetail.prxu.org
 dowjones.demdex.net
 downloads.1c.ru
 downloads.brainstormforce.com
@@ -4291,10 +4575,15 @@ dropbox.com
 dr.outbrain.com
 drrrhyhe9lfip.cloudfront.net
 drscdn.500px.org
+drugs-d.openx.net
 drwaiqwbfbh5tnyqhfr7dknnei.appsync-api.us-east-1.amazonaws.com
 ds055uzetaobb.cloudfront.net
 ds-aksb-a.akamaihd.net
 dsbahmgppc0j4.cloudfront.net
+ds.cookiehub.net
+dsg2.btttag.com
+dsg.attn.tv
+dsg.tt.omtrdc.net
 dsimg.ubm-us.net
 dsk4t6ov5vq8n.cloudfront.net
 dslv9ilpbe7p1.cloudfront.net
@@ -4336,14 +4625,17 @@ dynamic-ads.s-prod.pow.io
 dynamic.criteo.com
 dynamic.rakuten.co.jp
 dynamic.websimages.com
+dynamic-widget-service-l72twop3ra-uc.a.run.app
 dyr2dbqz8u9mp.cloudfront.net
 dyv1bugovvq1g.cloudfront.net
 dz9qn8fh4jznm.cloudfront.net
+e001bec6e55ce188e6ef4fb7a98ec9d6.safeframe.googlesyndication.com
 e00-elmundo.uecdn.es
 e00.uecdn.es
 e00-ue.uecdn.es
 e0.flightcdn.com
 e-10457.adzerk.net
+e-10699.adzerk.net
 e15b59eb981de34ddc73bfce7981ec90.safeframe.googlesyndication.com
 e1bf9c90deb3.cdn4.forter.com
 e1.emxdgt.com
@@ -4359,6 +4651,8 @@ e3c8e3e59824b7c49b3b1346b0b6b0de.safeframe.googlesyndication.com
 e3e529e35cad9414e53f0e9c573e2560.safeframe.googlesyndication.com
 e409fb2ee7bc51a9e6a2abe9669ff00d.safeframe.googlesyndication.com
 e411b4bf29e78056de75bc666d353e2c.safeframe.googlesyndication.com
+e459491e6953d42cc9179cd89948c909.safeframe.googlesyndication.com
+e46e07b336d0f4a9e3786787407b774d.safeframe.googlesyndication.com
 e475ce545b83599b9aa3bc2f7f72449f.safeframe.googlesyndication.com
 e4a6735c-aafa-4125-85d2-38e598671215.mysimplestore.com
 e4ade0f2ba03e84437e8334c5a429ecc.safeframe.googlesyndication.com
@@ -4374,6 +4668,7 @@ e83a79014975e55339b3b50df793216d.safeframe.googlesyndication.com
 e87622474d71cc7288be215a752143b5.safeframe.googlesyndication.com
 e88921fa1b6d3d8367bd5c377a8054e1.safeframe.googlesyndication.com
 e8d7b288711b26eb4877e5b9d634ce84.safeframe.googlesyndication.com
+e8e0bdcde0afd117a4a96cb18f3ab1b7.safeframe.googlesyndication.com
 e93c706404811bfc1b98f13d94b05e10.safeframe.googlesyndication.com
 e-9660.adzerk.net
 e9674f925d7c74dc067812e8e78f4bbc.safeframe.googlesyndication.com
@@ -4383,6 +4678,7 @@ ea3fcd881b9f7092c03608f0635f66b1.safeframe.googlesyndication.com
 e.acuityplatform.com
 eadn-wc05-4047634.nxedge.io
 earimediaprodweb.azurewebsites.net
+earthdaynetsta.wpengine.com
 east.manifest.na.theplatform.com
 easycaptchas.com
 easy-redirects.s3-eu-west-1.amazonaws.com
@@ -4439,6 +4735,7 @@ ee.wovn.io
 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 eff6ae8b0e204cb91073750dc5211dcd.safeframe.googlesyndication.com
 effectus.nui.media
+e.infogr.am
 e.infogram.com
 ei.rlcdn.com
 ekr.zdassets.com
@@ -4462,6 +4759,7 @@ embed.acuityscheduling.com
 embed.air.tv
 embed.bloom.li
 embed.coachy.net
+embed.dpa-electionslive.com
 embed.ex.co
 embed-fastly.wistia.com
 embed.filekitcdn.com
@@ -4482,6 +4780,7 @@ embed.typeform.com
 embed.videodelivery.net
 embedwistia-a.akamaihd.net
 emea-bernina.netmng.com
+em-frontend-assets.airtrfx.com
 emi.vcuhealth.org
 em.licasd.com
 emma-content-aggregates-prd.s3.amazonaws.com
@@ -4503,6 +4802,7 @@ engage-see.franklymedia.com
 engage.wixapps.net
 engine.bitmedianetwork.com
 engine.laweekly.com
+engine.widespace.com
 enormapps.com
 enquete.agconsult.com
 en.russiatoday.com
@@ -4541,6 +4841,7 @@ etracker.de
 ets-us-east-1.track.smaato.net
 eu01.in.treasuredata.com
 eu1-search.doofinder.com
+eu4.heatmap.it
 eu.ads.audio.thisisdax.com
 eua.instiengage.com
 euasync01.admantx.com
@@ -4553,6 +4854,7 @@ eum-eu-west-1.instana.io
 eum.instana.io
 eum-orange-saas.instana.io
 eum-red-saas.instana.io
+eum-us-west-2.instana.io
 eum.vikinguard.com
 eur-bid-hubvisor.adsrvr.org
 euronewsgroup.d3.sc.omtrdc.net
@@ -4568,6 +4870,7 @@ eventbrite.com
 eventbrite-s3.s3.amazonaws.com
 event.cdnbasket.net
 event.clientgear.com
+event.havasedge.com
 event.insticator.com
 event.instiengage.com
 event.mrtnsvr.com
@@ -4623,10 +4926,12 @@ exchange.remixd.com
 ex.ingage.tech
 expedia.com
 expediapartnercentral.com
+experience-ap.piano.io
 experience.tinypass.com
 explorefreeresults.com
 exploreorg.disqus.com
 exponential54894892.s.moatpixel.com
+exposure-service.prod.tda.link
 express-images.franklymedia.com
 express.livingstonintl.com
 ext.chtbl.com
@@ -4646,6 +4951,7 @@ f1284dc409966cce1796e3c634888610.safeframe.googlesyndication.com
 f150bedbdcea4bd18699dfdaceaf183d-e309da9b9aaf.cdn.forter.com
 f15729623db15460ebb95f73658ce329.safeframe.googlesyndication.com
 f1.cf.brightcove.com
+f1f0ceffb833c90f4263e9df2aa74086.safeframe.googlesyndication.com
 f1.media.brightcove.com
 f23ffe45e6acd23b5968902b7d339df7.safeframe.googlesyndication.com
 f2b38ced9086b835c3690e1aa149d287.safeframe.googlesyndication.com
@@ -4654,6 +4960,7 @@ f2d1e771ff093724bcaa3a3c12809f69.safeframe.googlesyndication.com
 f32db70c149f4b51b98443be6d2c1137.safeframe.googlesyndication.com
 f35b59fc-90c6-428e-a9e4-494353d0f0e1.edge.permutive.app
 f389d50a-32e0-478b-9d4b-2d4592528bea.edge.permutive.app
+f3eefe554f5f3740c10fd7f23de568ca.safeframe.googlesyndication.com
 f410f3f3-b06c-42c6-9d43-8c0174b74c43.sync.upravel.com
 f49rvkeckz-dsn.algolia.net
 f4.bcbits.com
@@ -4667,9 +4974,11 @@ f6ce437f220948364e883c8d9825d25f.safeframe.googlesyndication.com
 f6d25e7bbf136ee1eb2ebfd67818943a.safeframe.googlesyndication.com
 f72a731a7064c5a64aae5ef09c6fbf8f.safeframe.googlesyndication.com
 f75506a2575839f1ecf493855854c413.safeframe.googlesyndication.com
+f7e98148-cb09-4cf1-9b9f-b5aee3465d6e.edge.permutive.app
 f821f7d18e74db094076ddaca9b83577.safeframe.googlesyndication.com
 f862d4e499d6aefd9e676bfe35fb0861.safeframe.googlesyndication.com
 f8949a255e98da0268d6cf3c5f22a711.safeframe.googlesyndication.com
+f8f2b36f6ac6132a3d321042ed7b6066.safeframe.googlesyndication.com
 f8fad95b7ec5c8b6010ae3d71798f277.safeframe.googlesyndication.com
 f93c7bebb238dd5e2d1690e091a6ce9a.safeframe.googlesyndication.com
 f94490adcb59ef916c038bf882e51cd6.safeframe.googlesyndication.com
@@ -4691,7 +5000,9 @@ farm3.staticflickr.com
 farm4.static.flickr.com
 farm5.staticflickr.com
 farm66.staticflickr.com
+farm6.static.flickr.com
 farm6.staticflickr.com
+farm7.static.flickr.com
 farm8.staticflickr.com
 farmergoldfish.com
 fast.a.klaviyo.com
@@ -4728,6 +5039,7 @@ f.convertkit.com
 fcrlpkyegbovcvghtcoiydzkwwjet1650827335.nuid.imrworldwide.com
 fcs.dellcdn.com
 fc-use1-00-pics-bkt-00.s3.amazonaws.com
+fd24a035168e96e51aef6f7c49063bf3.safeframe.googlesyndication.com
 fdb974e78f40d0b42922c8c5ad04813e.safeframe.googlesyndication.com
 fdd257bae7bded6a553e159682efa2b8.safeframe.googlesyndication.com
 fdf43b7a96aa6b11194561df0fece343.safeframe.googlesyndication.com
@@ -4749,6 +5061,7 @@ feed.cnet.com
 feeder.acast.com
 feedify.net
 feed.mikle.com
+feed-prod.unitycms.io
 feeds.feedburner.com
 feeds.tildacdn.com
 feed.theplatform.com
@@ -4768,9 +5081,11 @@ files.clinchtalent.com
 files.elfsightcdn.com
 files.elfsight.com
 files.jumpoutpopup.ru
+files.readme.io
 files.slpht.net
 files.upscore.com
 fingerprinter-production.herokuapp.com
+fin-statics-prod.dcp.stroeerws.de
 firebase-crowdcast.firebaseapp.com
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
@@ -4806,6 +5121,7 @@ fls-eu.amazon-adsystem.com
 fls-eu.amazon.com
 fls-fe.amazon-adsystem.com
 fls-na.amazon-adsystem.com
+fls-na.amazon.ca
 fls-na.amazon.com
 flux-cdn.com
 fmlb.netlbtu.com
@@ -4820,6 +5136,7 @@ fonts.cm4all.net
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.insiderintelligence.us
+fonts.iu.edu
 fonts.jimstatic.com
 fonts.mailerlite.com
 fonts.nymag.com
@@ -4828,6 +5145,7 @@ fonts.shopifycdn.com
 fonts.smct.io
 fonts.yieldify-production.com
 font.typeform.com
+fooby.ch
 footballco-d.openx.net
 forbes274355.s.moatpixel.com
 ford.demdex.net
@@ -4869,6 +5187,7 @@ freesecure.timeanddate.com
 freestar-d.openx.net
 freestar-io.videoplayerhub.com
 freestar-tagan.adlightning.com
+freshdesk.freshsales.io
 fresnel.vimeocdn.com
 freyr.futurecdn.net
 friendship.nbc.co
@@ -4889,10 +5208,12 @@ fsrar.gov.ru
 ft.com
 fty-v4.pops.fastly-insights.com
 fukuoka-u-football.com
+fullstory.com
 fundingchoicesmessages.google.com
 fusion-media-group-d.openx.net
 f.vimeocdn.com
 fw.adsafeprotected.com
+f.wishabi.net
 fyrsbckgi-c.global.ssl.fastly.net
 g0.iggcdn.com
 g1584674684.co
@@ -4926,6 +5247,7 @@ gateway.yieldify-production.com
 g.bing.com
 g.c.appier.net
 gcdn.2mdn.net
+gcp.api.snapchat.com
 gczx666.oss-cn-shenzhen.aliyuncs.com
 gdnqmcwkpktgcjepanir2brteh7fo1650819319.darnuid.imrworldwide.com
 gdpr-api.sherwood.cz
@@ -4972,12 +5294,15 @@ geo.qualaroo.com
 geo.tildacdn.com
 geo-tracker.smadex.com
 geo.yahoo.com
+geo.ziffdavis.com
+getcrunch.co
 get.geojs.io
 getrewardful.com
 getrockerbox.com
 getserial.infotecs.ru
 get.s-onetag.com
 get.truex.com
+getyourguide.app.baqend.com
 g.foolcdn.com
 gfycat.com
 ghb1.adtelligent.com
@@ -4987,6 +5312,7 @@ ghb.console.adtarget.com.tr
 ghb.hbmp.mediafuse.com
 ghb.hb.selectmedia.asia
 ghb.spotim.market
+ghbtns.com
 ghent-gce-sc.bidswitch.net
 gif.naigou1002.top
 gigazine.be
@@ -5009,10 +5335,13 @@ gleam-prod-user-assets.s3.amazonaws.com
 glerl.noaa.gov
 glimmer.hearstapps.com
 glitter.services.disqus.com
+global.cloud.netacuity.com
 global-exchange.herokuapp.com
+global.go.com
 global.ib-ibi.com
 global.imrworldwide.com
 global.ketchcdn.com
+globalnewsdigitalvideo.corusdigitaldev.com
 global.oktacdn.com
 global.proper.io
 global.sitesearch360.com
@@ -5035,6 +5364,7 @@ go.episerver.com
 go.esri.com
 go.ezodn.com
 go.ezoic.net
+gold.contentsfeed.com
 goldderby.com
 golf21.rtb.appier.net
 golf26.rtb.appier.net
@@ -5114,6 +5444,7 @@ groupon.attn.tv
 grow.clearbitjs.com
 grow.hawthorne-gardening.com
 grp01.ashiato.rakuten.co.jp
+grp16.ias.rakuten.co.jp
 grsm.io
 grsync.ru
 g.rtbrain.app
@@ -5121,6 +5452,7 @@ grunerandjahr.112.2o7.net
 grw.reputon.com
 gs1go2.azureedge.net
 gs-cdn.optimonk.com
+gs-goldbach.da-services.ch
 gslbeacon.lijit.com
 gsmliberty.disqus.com
 gs.mountain.com
@@ -5149,6 +5481,7 @@ gwmtracking.com
 gyh1lh20owj.ru
 h5.sinaimg.cn
 h99w9l39sa.execute-api.us-east-1.amazonaws.com
+habrastorage.org
 hackerone.com
 halc.iadvize.com
 hamburger.maggieeatstheangel.com
@@ -5157,6 +5490,7 @@ hash.qualia.id
 hashtaglabs-d.openx.net
 hawkeye4.semetricmedia.com
 hayhouse.zendesk.com
+hb.adingo.jp
 hb.adscale.de
 hb-api.omnitagjs.com
 hb.aralego.com
@@ -5167,6 +5501,7 @@ hb.imgix.net
 hb.improvedigital.com
 hblg.media.net
 hbopenbid.pubmatic.com
+hbpulse.azurefd.net
 hbr.demdex.net
 hbr.sc.omtrdc.net
 hbs.ph.affinity.com
@@ -5183,7 +5518,9 @@ hde.tynt.com
 hdm-streaming-otfp.hearst.io
 healthaffairs.activehosted.com
 healthaffairs.img-us3.com
+healthcare-app.quantummetric.com
 healthline-d.openx.net
+health.tapnative.com
 healthydirections.attn.tv
 heapanalytics.com
 hearst.gscontxt.net
@@ -5197,7 +5534,9 @@ helpukrainewinwidget.org
 hentaibiz.com
 hexagon-analytics.com
 hey.lt
+hgc-cf-cache-1.svonm.com
 hhsgovfedramp.gov1.qualtrics.com
+highcharts.github.io
 hi.hellobar.com
 hilton.cdn-v3.conductrics.net
 hilton.demdex.net
@@ -5223,6 +5562,7 @@ homedepot-sync.quantummetric.com
 homedepot.tt.omtrdc.net
 homepage.alfahosting.de
 honcode.ch
+honestclick.miqdigital.com
 honesteonline.com
 h.online-metrix.net
 honorableland.com
@@ -5234,6 +5574,7 @@ hostgatorblog.disqus.com
 hoteis.com
 hoteles.com
 hotels.com
+hot.openstreetmap.org
 housedating.top
 h.parrable.com
 hp.demdex.net
@@ -5241,6 +5582,8 @@ hpr.outbrain.com
 hpww.tt.omtrdc.net
 hrc.imgix.net
 hrc-prod-requests.s3-us-west-2.amazonaws.com
+hs-marketing.imgix.net
+hsto.org
 ht-group-browser-notifications.firebaseapp.com
 htlb.casalemedia.com
 htlbid.com
@@ -5249,6 +5592,7 @@ httpbin.org
 http-inputs-itv.splunkcloud.com
 hubble-02.tmmp.io
 hub.npo-data.nl
+hubspot.clearbit.com
 hubspot.sjv.io
 hwpm.pdqs.mobi
 hybridiopetus.files.wordpress.com
@@ -5257,6 +5601,7 @@ hypebeast.disqus.com
 hypebeast-d.openx.net
 hypeddit.zendesk.com
 hystericalcloth.com
+i01.appmifile.com
 i0.wp.com
 i1.sndcdn.com
 i1.vivocha.com
@@ -5418,6 +5763,7 @@ image.igame.bet
 image.isu.pub
 image.jimcdn.com
 image.monimore.com
+image.mux.com
 image.pbs.org
 imageprocessor.digital.vistaprint.com
 image.providesupport.com
@@ -5439,6 +5785,7 @@ images.asos-media.com
 images.bizbuysell.com
 images.bonanzastatic.com
 images.bubbleup.com
+images.chesscomfiles.com
 images.clickfunnel.com
 images-cn.ssl-images-amazon.cn
 images.contentful.com
@@ -5464,6 +5811,8 @@ images.kooapp.com
 image.slidesharecdn.com
 images.mutinycdn.com
 images-na.ssl-images-amazon.com
+images.netizen.co
+images.news.iu.edu
 images.otstatic.com
 images.ottplay.com
 images.outbrainimg.com
@@ -5485,6 +5834,7 @@ images.squarespace-cdn.com
 images.taboola.com
 images.techhive.com
 images.thdstatic.com
+images.theabcdn.com
 images.trvl-media.com
 images.unsplash.com
 imagesvc.meredithcorp.io
@@ -5502,15 +5852,22 @@ img01.ssp.rambler.ru
 img03.en25.com
 img04.en25.com
 img1.wsimg.com
+img1.zergnet.com
 img2.blogblog.com
 img2.wsimg.com
+img2.zergnet.com
 img3.jiemian.com
 img.3lift.com
 img4.wsimg.com
+img4.zergnet.com
 img6.wsimg.com
 img-9gag-fun.9cache.com
 img.ak.impact-ad.jp
 img.alicdn.com
+imgaz1.staticbg.com
+imgaz2.staticbg.com
+imgaz3.staticbg.com
+imgaz.staticbg.com
 img.buzzfeed.com
 img-cdn.tnwcdn.com
 img.connatix.com
@@ -5537,6 +5894,7 @@ img.litix.io
 img.medscapestatic.com
 img.mix.com
 img.nui.media
+img.olympicchannel.com
 img.pay.naver.net
 img.pmsrv.co
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -5548,7 +5906,9 @@ img.shopvote.de
 img-s-msn-com.akamaized.net
 img.sportradar.com
 imgs.signifyd.com
+img.staticbg.com
 img.tfd.com
+img.toi.de
 img.tradedoubler.com
 imgur-categorisation.ccgateway.net
 imgur.ccgateway.net
@@ -5560,6 +5920,8 @@ imichat-preprod-app-share.s3.amazonaws.com
 im.ov.yahoo.co.jp
 imp.control.kochava.com
 imp.emxdgt.com
+imperva.containers.piwik.pro
+imperva.piwik.pro
 impes.tradedoubler.com
 imp.i115008.net
 imprchmp.taboola.com
@@ -5573,8 +5935,11 @@ imtrustworthy.com
 imtwjwoasak.com
 i.mycdn.me
 i.natgeofe.com
+inaturalist-open-data.s3.amazonaws.com
+incident57.com
 incimages.com
 independent.mainroll.com
+indiana.blueconic.net
 indibloghub.com
 indiegogo.zendesk.com
 i.ndtvimg.com
@@ -5582,6 +5947,7 @@ inffuse.eventscalendar.co
 infinity-c15.youboranqs01.com
 infinityid.condenastdigital.com
 influ2.com
+info.candid.org
 info.fonecta.com
 infogram.zendesk.com
 info.lgsolarusa.com
@@ -5594,6 +5960,7 @@ ingestion.smartocto.com
 ingest.make.rvapps.io
 in.getclicky.com
 in.hotjar.com
+init.blackcrow.ai
 in.ml314.com
 innercircleassets.com
 innerengineering.com
@@ -5627,12 +5994,14 @@ inventory.vidazoo.com
 invitations.1c-edo.keydisk.ru
 invitejs.trustpilot.com
 inv-nets.admixer.net
+io.fusedeck.net
 io.narrative.io
 i.ontraport.com
 io.vtex.com.br
 ipapi.co
 ipb.smct.io
 ipfind.co
+ip.freshmarketer.com
 i.piano.io
 ipinfo.io
 i.pinimg.com
@@ -5646,6 +6015,7 @@ i.pximg.net
 ir-de.amazon-adsystem.com
 i.realytics.io
 ir.ebaystatic.com
+i.redd.it
 irishtimes.grapeshot.co.uk
 irishtimes.report-uri.com
 ir-jp.amazon-adsystem.com
@@ -5661,6 +6031,7 @@ ishangam-em-s3.s3.ap-south-1.amazonaws.com
 i.shgcdn.com
 i.simpli.fi
 i.socdm.com
+isp-lookup-dot-hm-group-appeng.ew.r.appspot.com
 i.stack.imgur.com
 iteratehq.com
 itk-konferenssi.fi
@@ -5688,6 +6059,7 @@ jakroo.storage.googleapis.com
 jam.hearstapps.com
 jba-subispeed.zendesk.com
 j.clarity.ms
+jdl.nmgplatform.com
 jelly.mdhv.io
 jetpackme.files.wordpress.com
 jetpack.wordpress.com
@@ -5739,6 +6111,7 @@ js.center.io
 js.chilipiper.com
 js.churchcenter.com
 jscloud.net
+js.clrt.ai
 jsc.mgid.com
 js.cnnx.link
 js.convertflow.co
@@ -5846,6 +6219,7 @@ kds-pixel.kargo.com
 kei.pl
 kendo.cdn.telerik.com
 keterpim-curver.m302.signature-it.com
+key-cdn.printfriendly.com
 keywords.mediavine.com
 kfocus.org
 khms0.googleapis.com
@@ -5865,6 +6239,7 @@ klkstrm.kargo.com
 kmnl.tns-nipo.com
 knotch-cdn.com
 knrpc.olark.com
+koala-app.com
 ko-fi.com
 kohls.demdex.net
 kohls.sjv.io
@@ -5878,10 +6253,13 @@ kraken.rambler.ru
 krita.org
 krk.kargo.com
 krp.mxptint.net
+ksl-d.openx.net
 ksr-static.imgix.net
 ksr-ugc.imgix.net
 kssp.kbntx.ch
 kstatic.googleusercontent.com
+kuqx3jyk5h25az7pe1dejqdjybglf1650886880.darnuid.imrworldwide.com
+kv0rt3pjzc-dsn.algolia.net
 kveaa.com
 kvecc.com
 kveii.com
@@ -5895,6 +6273,7 @@ kvt.sddan.com
 kw3.knowwho.com
 kwettr.com
 kxan.com
+kxbek32pzyaeydqk75soppt9q8ta31650888349.nuid.imrworldwide.com
 kxqd7cf966.execute-api.us-west-1.amazonaws.com
 l0.dca0.com
 l10.dca0.com
@@ -5933,12 +6312,16 @@ launchpad.privacymanager.io
 launchpad-wrapper.privacymanager.io
 lax1-ib.adnxs.com
 lax-v4.pops.fastly-insights.com
+lb34.s400.meetrics.net
+lb44.s400.meetrics.net
 l.betrad.com
 lbry.com
 lbs-event.gcp.lineate-33x.net
 lbs-ru1.ads.betweendigital.com
+lbstatic.nu
 lciapi.ninthdecimal.com
 l.clarity.ms
+l.contentsquare.net
 lcx-widgets.bambuser.com
 ldschurch.tt.omtrdc.net
 lduhtrp.net
@@ -5967,6 +6350,7 @@ lh6.googleusercontent.com
 lib-3pas.admatrix.jp
 lib.getshogun.com
 lib.intuitcdn.net
+libjs.s4mdsp.com
 libraries.wmgartistservices.com
 library.elementor.com
 library.kadenceblocks.com
@@ -5976,11 +6360,13 @@ lib-us-2.brilliantcollector.com
 lib-us-3.brilliantcollector.com
 lib.wtg-ads.com
 licensebuttons.net
+licensing.bitmovin.com
 liftkit.imgix.net
 lightboxapi.azurewebsites.net
 lightboxcdn.com
 lightwidget.com
 lim-v4.pops.fastly-insights.com
+linkback.contentsfeed.com
 linkedin.com
 linkedin.sc.omtrdc.net
 link.h-cdn.com
@@ -6002,11 +6388,14 @@ lit.connatix.com
 literally-media.videoplayerhub.com
 little-flower-d8af.torrentfreak.workers.dev
 liveapi-cached.yext.com
+live-cdn.jwplayer.com
 livechat.containers.piwik.pro
+livechat-experts.s3.amazonaws.com
 livechat.piwik.pro
 livecomments.viafoura.co
 live.demand.supply
 live.luigisbox.com
+live.mrf.io
 livepages.de
 live-patreon-marketing.pantheonsite.io
 live.primis.tech
@@ -6041,6 +6430,7 @@ lockerdome.com
 log.affiliate.rakuten.co.jp
 logger.adthrive.com
 logger.kataweb.it
+logging.cmp-resources.link
 log.go.com
 login.1c.ru
 logincdn.msauth.net
@@ -6104,6 +6494,7 @@ ls.skimresources.com
 l-stat.livejournal.net
 lucid.app
 lucid.co
+lumiere-a.akamaihd.net
 luna1.co
 lusearchapi-na.hawksearch.com
 lux.speedcurve.com
@@ -6132,6 +6523,8 @@ mag.raysweather.com
 mailchimp.ada.support
 maillist-manage.com
 mailworx.oegbverlag.at
+mainichinewspapers-d.openx.net
+maji-production.imgix.net
 make.activehosted.com
 make.co
 makeproductions.co.uk
@@ -6200,6 +6593,7 @@ maxst.icons8.com
 ma.zoho.com
 mb9eo-nkrlx.ads.tremorhub.com
 mb-employer-logos.s3.amazonaws.com
+mbid.marfeelrev.com
 mb.moatads.com
 mb.mtvnservices.com
 mboxedge34.tt.omtrdc.net
@@ -6252,6 +6646,7 @@ mediablog.cdnpk.net
 mediacdn.espssl.com
 media-cdn.ipredictive.com
 media-cdn.trulia-local.com
+media-central.indianexpress.com
 media.ci.org
 media-cldnry.s-nbcnews.com
 media.complex.com
@@ -6287,6 +6682,7 @@ media.sumo.com
 media-us1.digital.nuance.com
 medium.com
 medtargetsystem.com
+medx.b-cdn.net
 meeple.geekdo.com
 meet.jit.si
 megadata.co.kr
@@ -6315,6 +6711,7 @@ metrics.api.eu.drift.com
 metrics.brightcove.com
 metrics.esoft.digital
 metrics.getrockerbox.com
+metrics.kmsmep.com
 metrics-logger.spot.im
 metrics.pico.tools
 metrics.yellowpages.com
@@ -6347,6 +6744,7 @@ mixcloud.com
 mixer.mobon.net
 mixi.media
 mixlr.com
+mjca-yijws.global.ssl.fastly.net
 mktg.biz.f5.com
 ml314.com
 mldpzurznh8f.i.optimole.com
@@ -6382,6 +6780,7 @@ moevideo.biz
 mohrss.gov.cn
 monarch.cohesionapps.com
 mon.domdog.io
+moneycontrol.verloop.io
 money.yandex.ru
 monorail-edge.shopifysvc.com
 monteazagpl.files.wordpress.com
@@ -6413,6 +6812,7 @@ m.skimresources.com
 m.sndcdn.com
 mssdk.us.tiktokv.com
 mssl.fwmrm.net
+ms.staticbg.com
 m.stripe.com
 m.stripe.network
 mswebapps.co
@@ -6424,6 +6824,7 @@ muc-v4.pops.fastly-insights.com
 multifbpixels.website
 munchkin.brightfunnel.com
 munchkin.marketo.net
+musicnotes.resultspage.com
 mv.outbrain.com
 mwcm.nyt.com
 mweb-hb.presage.io
@@ -6451,6 +6852,7 @@ mymobileapp.online
 m.youtube.com
 mypagerank.net
 my.parcelpanel.com
+myprivacy-static.dpgmedia.net
 my.rtmark.net
 n0266.com
 n0299.com
@@ -6462,6 +6864,7 @@ n7w3d4c4.rocketcdn.me
 n.ads1-adnow.com
 na.groupondata.com
 na-library.klarnaservices.com
+narrations.ad-auris.com
 nasemoceprodcomm-nationalacademies.cec.ocp.oraclecloud.com
 nasemoceprodcomm-nationalacademies.ocecdn.oraclecloud.com
 nas-national-prod.s3.amazonaws.com
@@ -6493,6 +6896,7 @@ nebula.wsimg.com
 neighborhood.swiftideas.net
 nep.advangelists.com
 nervoussummer.com
+nespressousa.us-4.evergage.com
 netdna.bootstrapcdn.com
 netilus.fr
 network.bazaarvoice.com
@@ -6505,6 +6909,7 @@ newimagitas.demdex.net
 newimagitasinc.demdex.net
 newor.technoratimedia.com
 newplayable.dspunion.com
+newsaktuell.de
 news.apple.com
 news.google.com
 newsletter.ama-assn.org
@@ -6527,16 +6932,19 @@ nicolive.cdn.nimg.jp
 nicolive-img.cdn.nimg.jp
 nicovideo.cdn.nimg.jp
 niemanlab.disqus.com
+nimbleswan.io
 nineto5mac-d.openx.net
 nintendo-app.quantummetric.com
 nintendoofamericainc.demdex.net
 nintendoofamerica.tt.omtrdc.net
+nir.theregister.co.uk
 nitecore-italia.com
 nitehawk.hearst.io
 nl-api.insight.sitefinity.com
 nl-kataweb.emailsp.com
 nmonpoendpoint.2cnt.net
 nmp-intake.data-capture.nikecloud.com
+n.nativendo.de
 nnlofxdnuh.execute-api.us-east-1.amazonaws.com
 no-cache.hubspot.com
 node225.impressionssl.adshop.infolinks.com
@@ -6590,9 +6998,11 @@ o1085221.ingest.sentry.io
 o109687.ingest.sentry.io
 o115706.ingest.sentry.io
 o127091.ingest.sentry.io
+o128635.ingest.sentry.io
 o166489.ingest.sentry.io
 o17766.ingest.sentry.io
 o211375.ingest.sentry.io
+o223348.ingest.sentry.io
 o22381.ingest.sentry.io
 o22822.ingest.sentry.io
 o23399.ingest.sentry.io
@@ -6620,6 +7030,7 @@ o46710.ingest.sentry.io
 o472819.ingest.sentry.io
 o529943.ingest.sentry.io
 o531025.ingest.sentry.io
+o551949.ingest.sentry.io
 o56819.ingest.sentry.io
 o57980.ingest.sentry.io
 o64315.ingest.sentry.io
@@ -6627,6 +7038,7 @@ o741402.ingest.sentry.io
 o7540.ingest.sentry.io
 o83571.ingest.sentry.io
 o87425.ingest.sentry.io
+o90235.ingest.sentry.io
 o960626.ingest.sentry.io
 oajs.openx.net
 oa.openxcdn.net
@@ -6649,6 +7061,7 @@ oeffnungszeitenbuch.de
 oesigen5ht40hucd8t5g4x0dxzpzx1650865220.nuid.imrworldwide.com
 office.builderall.com
 oficinasteatrolisboadotcom.files.wordpress.com
+ogden_images.s3.amazonaws.com
 oidf.disqus.com
 ojrq.net
 ok.ru
@@ -6693,6 +7106,7 @@ optanon.blob.core.windows.net
 optassets.ontraport.com
 optimized-by.rubiconproject.com
 optimize.foolcdn.com
+optimize.innity.com
 optimize-stats.voxmedia.com
 optin.shinystat.com
 option.boldapps.net
@@ -6701,6 +7115,7 @@ opus.analytics.yahoo.com
 oracle.112.2o7.net
 oracle.com
 oracleimg.com
+orbidder.otto.de
 orbitz.com
 orcid.zendesk.com
 organiccdn.io
@@ -6709,6 +7124,7 @@ orib.org
 origin-4.xtlo.net
 origin.acuityplatform.com
 origin.wolframcdn.com
+os4m-d.openx.net
 osimg.nbcuni.com
 ot883.infusionsoft.app
 otageo.cartrawler.com
@@ -6718,6 +7134,7 @@ ove1.marketlinc.com
 oven.trendmd.com
 overlay-track.sailthru.cloud
 ow2.res.office365.com
+oweb.s3.amazonaws.com
 ow.pubmatic.com
 ox.ac.uk
 ox-d.internetbrands.servedbyopenx.com
@@ -6728,9 +7145,12 @@ p16-sign-sg.tiktokcdn.com
 p16-sign.tiktokcdn-us.com
 p16-sign-va.tiktokcdn.com
 p19-sign.tiktokcdn-us.com
+p19.zdassets.com
 p1.parsely.com
 p1.zemanta.com
 p20.zdassets.com
+p27.zdassets.com
+p28.zdassets.com
 p2.fwpixel.com
 p2.gcprivacy.com
 p2.keywee.co
@@ -6747,6 +7167,7 @@ p.ad.gt
 padlet.com
 padlet.net
 padlet.pics
+p.adlooxtracking.com
 p.ads.roku.com
 p.adsymptotic.com
 pagead2.googlesyndication.com
@@ -6783,6 +7204,7 @@ patagonia.122.2o7.net
 patagonia-app.quantummetric.com
 pa.tns-ua.com
 patreon.com
+paulirish.disqus.com
 pavlov-prod.healthline.com
 pay.google.com
 payments.amazon.com
@@ -6811,7 +7233,9 @@ pbs.nextmillmedia.com
 pbs.publishers.tremorhub.com
 pbs.twimg.com
 pcbmotor.ocitdesign.dk
+pc-cmsgov-collect.tealiumiq.com
 p.channelexco.com
+pci3oo5mg4mn-a.akamaihd.net
 p-co.c-ovn.jp
 pcookie.cnzz.com
 p.cpx.to
@@ -6836,12 +7260,20 @@ perr.h-cdn.com
 personalization-wp-service.cluster.app-us1.com
 per-v4.pops.fastly-insights.com
 petapixel.disqus.com
+petco19671z.btttag.com
+petco.9zpg.net
+petco.demdex.net
+petco.flavedo.io
+petcoprod.112.2o7.net
+petco.tt.omtrdc.net
 pewforum.org
+pexus.prod.tda.link
 pf051d5ba7e.dmc.nico
 pf.entertainow.com
 pflegetester.de
 p.gcprivacy.com
 pghub.io
+pgp9pma7yc-dsn.algolia.net
 pg-prebid-server.rubiconproject.com
 pgslot.game
 pg.ziffstatic.com
@@ -6850,6 +7282,9 @@ ph-avatars.imgix.net
 pheinc.ehosts.net
 ph-files.imgix.net
 philantro.s3.amazonaws.com
+philips.112.2o7.net
+philips.co.uk
+philipselectronics-1.demdex.net
 phinf.pstatic.net
 phonograph2.voxmedia.com
 photobucket.cdn.prismic.io
@@ -6872,6 +7307,7 @@ ping-fast.com
 ping-meta-prd.jwpltx.com
 ping-origin-prd.jwpltx.com
 ping.pdst.fm
+pinpoint.ap-southeast-1.amazonaws.com
 pinpoint.espn.com
 pinpoint.us-east-1.amazonaws.com
 pi.pardot.com
@@ -6917,6 +7353,7 @@ pixel.pointmediatracker.com
 pixel.prfct.co
 pixel.quantserve.com
 pixel.rubiconproject.com
+pixel.rubyblu.com
 pixels.ad.gt
 pixels.dativa.com
 pixel.servebom.com
@@ -6973,6 +7410,7 @@ play.adtonos.com
 play.aniview.com
 playback.oovvuu.media
 playback.video.meredithcorp.io
+player.adtcdn.com
 player.adtelligent.com
 player.aniview.com
 player.anyclip.com
@@ -7038,12 +7476,14 @@ podcast.washpostpodcasts.com
 podcdn.zencast.fm
 podiumpodcast.com
 podiums.link
+podtrac.com
 pogo.ccgateway.net
 pointblank.imp2aff.com
 polarcdn-engine.com
 polarcdn-terrax.com
 policy.app.cookieinformation.com
 polisher.co.jp
+politicoeu-d.openx.net
 pollinator.me
 polo.feathr.co
 polo-v1.feathr.co
@@ -7084,10 +7524,12 @@ pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.ad.smaato.net
 prebid.a-mo.net
+prebid.andbeyond.media
 prebid-a.rubiconproject.com
 prebid-asia.creativecdn.com
 prebid.deepintent.com
 prebid-eu.creativecdn.com
+prebid.flux-analytics.com
 prebid.intellitxt.com
 prebid.ioadx.com
 prebid-match.dotomi.com
@@ -7104,6 +7546,7 @@ preferences.trustarc.com
 prefmgr-cookie.truste-svc.net
 pre.glotgrx.com
 premiumsrv.aniview.com
+prepros.io
 presentation-atl1.turn.com
 pressjack.com
 preview.redd.it
@@ -7150,6 +7593,7 @@ pro2-bar-s3-cdn-cf6.myportfolio.com
 pro32.ap.org
 proc.ad.cpe.dotomi.com
 process.iconnode.com
+prod01.kaxsdc.com
 prod.accdab.net
 prod.adspsp.com
 prod.cbstatic.net
@@ -7157,10 +7601,12 @@ prod-cdn.wetransfer.net
 prod-dfm-proxy-connext.azurewebsites.net
 prod-discovery.edx-cdn.org
 prod.drupal.gaotest.org
+prod-east-alweb-mt.rfksrv.com
 prod-gamecenter.nhlstatic.com
 prod.gatekeeper.us-abc.symphony.edgedatg.com
 prod.gatekeeper.us-abc.symphony.edgedatg.go.com
 prodimage.images-bn.com
+prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prodmg2.blob.core.windows.net
 prod-m-node-1111.ssp.advertising.com
 prod-m-node-1113.ssp.advertising.com
@@ -7182,6 +7628,7 @@ productreviews.shopifycdn.com
 productsrecommend.sapoapps.vn
 products.shureweb.eu
 prod.uidapi.com
+prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com
 prod.webpu.sh
 profile.ngpvan.com
 profile.ssp.rambler.ru
@@ -7217,6 +7664,7 @@ psads-cdn.nyc3.cdn.digitaloceanspaces.com
 p.safeservingcdn.com
 ps.eyeota.net
 psp.pushnami.com
+psr.staticbg.com
 ps-vault.s3.amazonaws.com
 pswec.com
 psyccareers.com
@@ -7240,6 +7688,7 @@ public.govdelivery.com
 public-prod-dspcookiematching.dmxleo.com
 public.profitwell.com
 public.slidesharecdn.com
+publift-com.videoplayerhub.com
 publift-d.openx.net
 publisher-assets.spot.im
 publisher-embed.peddle.com
@@ -7283,6 +7732,7 @@ px.mountain.com
 px.owneriq.net
 px.spiceworks.com
 px.srvcs.tumblr.com
+px.staticfiles.at
 px.steelhousemedia.com
 px.surveywall-api.survata.com
 px.vliplatform.com
@@ -7292,6 +7742,8 @@ pyxis.nymag.com
 pziuspu2sgcopsp001.blob.core.windows.net
 pzz.events
 pzz.io
+q017o-d42by.ads.tremorhub.com
+q017o-jh7o1.ads.tremorhub.com
 q4modules.herokuapp.com
 q5bl4vaag1wj8x3o195pseypn6aty1650877516.nuid.nmrodam.com
 q.adrta.com
@@ -7332,6 +7784,7 @@ quizlet-prod.cdn.prismic.io
 quiz.tryinteract.com
 q-xx.bstatic.com
 qzsaf9eezqrcyzcepwd2rsppfmflt1650871926.nuid.imrworldwide.com
+r10zygrn4kl3.statuspage.io
 r1.abcimg.es
 r1.trackedweb.net
 r1-t.trackedlink.net
@@ -7374,7 +7827,9 @@ rawdata-asia.55labs.com
 rawgit.com
 raw.githubusercontent.com
 raw.vidyard.com
+rax.my.salesforce.com
 razorfrog.com
+r.babble.com
 rb.adnxs.com
 r.bidswitch.net
 rc8g2ucwjk-dsn.algolia.net
@@ -7394,9 +7849,15 @@ rdata.mpio.io
 rdcdn.com
 rdc.m32.media
 rd.frontend.weborama.fr
+r.disneybaby.com
+r.disney.com
+r.disney.go.com
+r.disneyjunior.com
+r.disneystore.com
 reachms.bfmio.com
 realtimestatistics.net
 recaptcha.net
+recipecontent.fooby.ch
 rec-marketing-usea1-customer-files.s3.us-east-1.amazonaws.com
 reco.cnt.my
 reco.ebu.io
@@ -7425,14 +7886,17 @@ redmine.keydisk.ru
 redrotou.net
 redventuresgamdisplay60805146916.s.moatpixel.com
 referrer.disqus.com
+referrer.solarwinds.com
 refer.wordpress.com
 reflex.imds-cdn.com
 region1.analytics.google.com
 region1.google-analytics.com
+regmedia.co.uk
 reg.ru
 regservice.1c.ru
 regservice.keydisk.ru
 rei-mcsp.demdex.net
+relap.io
 remarket.clicktripz.com
 remixd.deliveryengine.adswizz.com
 rendelesiurlap.hu
@@ -7440,7 +7904,9 @@ render.myfonts.net
 renolawfirm.com
 reperformmedia-a.akamaihd.net
 re.pm-serv.co
+report2.hb.brainlyads.com
 report.bex.glassboxdigital.io
+report.hb.brainlyads.com
 report.iheartmedia.gbqofs.io
 reporting.powerad.ai
 report.keydisk.ru
@@ -7464,6 +7930,7 @@ resources.asosservices.com
 resources.blogblog.com
 resources.digital-cloud-gov.medallia.com
 resources.digital-cloud.medallia.com
+resources.digital-cloud.medallia.eu
 resources.digital-cloud-prem.medallia.com
 resources.digital-cloud-west.medallia.com
 resources.infolinks.com
@@ -7477,6 +7944,7 @@ res-x.com
 retail.googleapis.com
 retcode.alicdn.com
 retcode-us-west-1.arms.aliyuncs.com
+revboostprocdnadsprod.azureedge.net
 reveal.clearbit.com
 reve.leafmedia.io
 revenueflex.com
@@ -7501,6 +7969,7 @@ rmbutterfly.com
 rm-script.dotmetrics.net
 rms.gospringboard.io
 rnengage.com
+r.nexac.com
 rodeo-cms.s3.us-west-2.amazonaws.com
 roguefitness.zendesk.com
 rollingstone.com
@@ -7562,12 +8031,14 @@ rrstatic.retailrocket.net
 rrtwda9.com
 rs4gfjzf.micpn.com
 rs.fullstory.com
+r.shopdisney.com
 r.skimresources.com
 rsms.me
 rss.art19.com
 rss.com
 r.stripe.com
 rt3002.infolinks.com
+rt3007.infolinks.com
 rt3013.infolinks.com
 rt3014.infolinks.com
 rt3019.infolinks.com
@@ -7587,6 +8058,7 @@ rtb.adgrx.com
 rtb.adstanding.com
 rtb.adxpremium.services
 rtbc-cac.doubleverify.com
+rtbcdn.andbeyond.media
 rtb.channelexco.com
 rtb.collov.com
 rtb.com.ru
@@ -7595,6 +8067,7 @@ rtb.gumgum.com
 rtb-lb-event-dx-adcloud-prod-us-east-1-tm.everesttech.net
 rtb.mfadsrvr.com
 rtb.openx.net
+rtbpass-us.andbeyond.media
 rtb.resource.collov.com
 rtb-use.hellogenie.com
 rtb-use.mfadsrvr.com
@@ -7618,6 +8091,7 @@ rules.atgsvcs.com
 rules.quantcount.com
 rumble.com
 rum.browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.eu
 rumcdn.geoedge.be
 rum-collector-2.pingdom.net
 rum.condenastdigital.com
@@ -7630,8 +8104,11 @@ russia.afssite.afs.org
 rw1.marchex.io
 r.webturn.ru
 rx-stats3.unrulymedia.com
+s01.appmifile.com
+s02lpntqu90y2aukno9ttk5qnt0fj1650888443.nuid.imrworldwide.com
 s0.2mdn.net
 s04.flagcounter.com
+s.0cf.io
 s0.wp.com
 s10.histats.com
 s-110.channelexco.com
@@ -7665,6 +8142,7 @@ s2.go-mpulse.net
 s2l.sendtonews.com
 s2s.aniview.com
 s332.t.eloqua.com
+s385.mxcdn.net
 s3.advarkads.com
 s3.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
@@ -7677,15 +8155,20 @@ s3.lightboxcdn.com
 s3-media0.fl.yelpcdn.com
 s3-media3.fl.yelpcdn.com
 s3.nikecdn.com
+s3n.tmimgcdn.com
+s3p.tmimgcdn.com
 s3retentionbadamax-s3bucket-2wikhsnvhtrx.s3.us-east-2.amazonaws.com
+s3sf.tmimgcdn.com
 s3t3d2y8.ackcdn.net
 s3.tebilisim.com
 s3.tradingview.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
+s3-us-gov-west-1.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.us-west-2.amazonaws.com
+s400.mxcdn.net
 s4.bcbits.com
 s4.histats.com
 s68275882.t.eloqua.com
@@ -7700,6 +8183,9 @@ s831949997.t.eloqua.com
 s8t.teads.tv
 s9.cnzz.com
 saa.cnet.com
+saambaa.com
+saambaa-static.azureedge.net
+saatchiart.attn.tv
 s.acquire.io
 sadlib.imds-cdn.com
 sadmin.brightcove.com
@@ -7782,6 +8268,7 @@ scontent-lga3-2.cdninstagram.com
 scontent-lga3-2.xx.fbcdn.net
 scontent-lis1-1.cdninstagram.com
 scontent-nrt1-1.cdninstagram.com
+scontent-ort2-1.cdninstagram.com
 scontent-ort2-1.xx.fbcdn.net
 scontent-ort2-2.cdninstagram.com
 scontent-ort2-2.xx.fbcdn.net
@@ -7804,6 +8291,7 @@ sc.pages04.net
 s.cpx.to
 scripps.demdex.net
 script.4dex.io
+script.anura.io
 script-api.ccgateway.net
 script-at.iocnt.net
 script.crazyegg.com
@@ -7843,6 +8331,7 @@ sdk-api-v1.singular.net
 sdk.beeketing.com
 sdk-cdn.optimove.net
 sdk.dcmn.io
+sdk.fra-01.braze.eu
 sdk.helloextend.com
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
@@ -7867,6 +8356,7 @@ searchanise.com
 searchanise-ef84.kxcdn.com
 search-api.swiftype.com
 searchenginejournal.matomo.cloud
+search-eu.cloud.coveo.com
 search-spa.guccidigital.io
 search.spotxchange.com
 search.usa.gov
@@ -7894,6 +8384,7 @@ secure-eu.nmrodam.com
 secure.everyaction.com
 secure.feed5mown.com
 secure.flashtalking.com
+secure-fra.livechatinc.com
 secure.gaug.es
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
@@ -7903,6 +8394,7 @@ secure.insightexpressai.com
 secureir.ebaystatic.com
 secure-it.imrworldwide.com
 secure.jbs.elsevierhealth.com
+secure-lc.livechatinc.com
 secure.leadback.advertising.com
 secure.leadforensics.com
 secure.liod1ours.com
@@ -7917,6 +8409,7 @@ secure.polldaddy.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 secure.rating-widget.com
+secure.ride8stir.com
 secure-sdk.imrworldwide.com
 secureservercdn.net
 secure.skypeassets.com
@@ -7978,6 +8471,7 @@ servedby.jewishcontentnetwork.com
 served-by.pixfuture.com
 servedbysmart.com
 server5.vidazoo.com
+server7.vidazoo.com
 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 server.connecto.io
 server.cpmstar.com
@@ -7991,15 +8485,19 @@ service.fsrar.ru
 service.giosg.com
 service.idsync.analytics.yahoo.com
 service.maxymiser.net
+service-navigations.s3.amazonaws.com
 service-reviews-ultimate.elfsight.com
 servicer.mgid.com
 service.seamlessaccess.org
+service-services.s3.amazonaws.com
 services.insurads.com
 services.vlitag.com
 service.wemass.com
 serving.mdscpxchg.com
+serving.stat-rock.com
 serv-selectmedia.com
 session-replay.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.eu
 sessions.bugsnag.com
 session.sitelabweb.com
 settings.luckyorange.com
@@ -8011,6 +8509,7 @@ sf16-unpkg-va.ibytedtos.com
 sf16-va.tiktokcdn.com
 sfdcstatic.com
 s-files.innovid.com
+sfp-adserver-cdn.sharethrough.com
 s-f.scribdassets.com
 sf.talentlms.com
 sf-tb-sg.ibytedtos.com
@@ -8028,9 +8527,12 @@ shareasale.com
 sharecart.webkul.com
 shared.mediahuis.be
 share.pluso.ru
+sharethis.imgix.net
+sharethrough.adnxs.com
 share.yandex.net
 share.zencast.fm
 sharkbanzusa.myshopify.com
+shaw.demdex.net
 shb.richaudience.com
 shiftcrypto.ch
 shopifyapp.rontar.com
@@ -8069,9 +8571,11 @@ simgbb.com
 s-img.mgid.com
 simplifi.partners.tremorhub.com
 sin.creativecdn.com
+s.infogram.com
 s.innovid.com
 sinoptik.ua
 sinst.fwdcdn.com
+siteanalytics.whatcounts.com
 site-assets.cdnmns.com
 siteassets.parastorage.com
 site.bluecore.com
@@ -8106,6 +8610,7 @@ s.ltrbxd.com
 smartengage.com
 smart.link
 smart.mobvista.com
+smartplugin.youbora.com
 smartsuppchat.com
 smarttag.rubiconproject.com
 s.marvellousmachine.net
@@ -8118,6 +8623,7 @@ smetrics.aetn.com
 smetrics.ancestry.com
 smetrics.cisco.com
 smetrics.elsevier.com
+smetrics.solarwinds.com
 smetrics.wmg.com
 smilevirtual.com
 s.ml-attr.com
@@ -8126,6 +8632,7 @@ smoggysnakes.com
 smon.loc.gov
 sm.rtb.mts.ru
 smsticket.cz
+snapchat.com
 snapengage.com
 snap.licdn.com
 snap-plugins.s3.amazonaws.com
@@ -8142,6 +8649,7 @@ snowplow.trx.gitlab.net
 s.ns1p.net
 s-nsk.ppstatic.pl
 s.ntv.io
+soapps.net
 socialcanvas-api.kargo.com
 socialcanvas-cdn.kargo.com
 socialgoodnow.disqus.com
@@ -8150,6 +8658,8 @@ social.oclc.org
 socialphotosapp.com
 sofia.trustx.org
 soh5m2q8rgi2g2zrh2h8c9au-wpengine.netdna-ssl.com
+solarwinds.tt.omtrdc.net
+solarwindsworldwidellc.demdex.net
 solutions.invocacdn.com
 sommelier.zdbb.net
 songbird.cardinalcommerce.com
@@ -8170,15 +8680,18 @@ spad.i-mobile.co.jp
 sp.analytics.yahoo.com
 spanids.thesaurus.com
 sp-ao.shortpixel.ai
+sparkusdiscoverdcm781744349491.s.moatpixel.com
 spa.spicegems.com
 sp.auth.adobe.com
 spcdnsp.i-mobile.co.jp
 spcollector.pathfactory.com
 s.pc.qq.com
+sp.dpgmedia.net
 spectrum.gettyimages.com
 spectrumreachdisplay809387421460.s.moatpixel.com
 speedtest.dailymotion.com
 spenden.twingle.de
+sp.gmossp-sp.jp
 spi.ck.page
 s.pinimg.com
 splice.amlg.io
@@ -8208,21 +8721,26 @@ square-fonts-production-f.squarecdn.com
 squarespace.syuh.net
 squline.com
 src.ebay-us.com
+src.freshmarketer.com
 src.litix.io
+s.relap.io
 srgssr01.wt-eu02.net
 srn.infusionsoft.app
 srn.infusionsoft.com
 sr.studiostack.com
+s-rtb-pb.send.microad.jp
 s-rtb.send.microadinc.com
 s.rtyche.com
 srv-1970-01-01-00.pixel.parsely.com
 srv-2022-04-24-16.pixel.parsely.com
 srv-2022-04-25-08.pixel.parsely.com
 srv-2022-04-25-09.pixel.parsely.com
+srv-2022-04-25-11.pixel.parsely.com
 srv.buysellads.com
 srv.carbonads.net
 srv.clickfuse.com
 srv.pixel.parsely.com
+srvr.dmvs-apac.com
 srv.stackadapt.com
 srv.tonemedia.com
 srv.tunefindforfans.com
@@ -8240,11 +8758,13 @@ s.sharethis.com
 ssif1.globalsign.com
 s.skimresources.com
 ssl.aetndigital.com
+ssl-avd.innity.net
 ssl.avmws.com
 ssl.bing.com
 ssl.cdne.cpmstar.com
 ssl-cdn.janraincapture.com
 ssl.cdn-redfin.com
+ssl-cdn.static.browser.mi-img.com
 ssl.connextra.com
 ssl.google-analytics.com
 ssl.gstatic.com
@@ -8293,6 +8813,7 @@ st6-20.vk.com
 st6-21.vk.com
 st6-22.vk.com
 st6-23.vk.com
+stack6.collect.igodigital.com
 stack-discounts.merchantyard.com
 stackpath.bootstrapcdn.com
 stack-sonar.com
@@ -8303,6 +8824,7 @@ stags.bluekai.com
 s.tagsrvcs.com
 stakingsmile.com
 stamped.io
+stanforddaily.disqus.com
 staples-3p.com
 staples.attn.tv
 staples.btttag.com
@@ -8342,6 +8864,7 @@ static.alliai.com
 static.aroa.io
 static.asknice.ly
 static.assetlab.io
+static-assets.clubhouseapi.com
 static-assets.fs.liveperson.com
 static-assets.highwebmedia.com
 static.atgsvcs.com
@@ -8383,6 +8906,7 @@ static.ebates.com
 static.ed.edmunds-media.com
 static.elfsight.com
 static-entertainment-eus-s-msn-com.akamaized.net
+static.etracker.com
 static-eu.payments-amazon.com
 static.ex.co
 static-exp1.licdn.com
@@ -8410,11 +8934,13 @@ static.isu.pub
 static.ithaka.org
 static.joomlart.com
 static.klaviyo.com
+static.law360news.com
 static.leadpages.net
 static.lesechos.com
 static-lists.linternaute.com
 static.mailerlite.com
 static.megaphone.fm
+static-mh.content.disney.io
 static.mixi.media
 static-mon.yandex.net
 static.myfinance.com
@@ -8433,11 +8959,13 @@ static.polldaddy.com
 static.popmechanic.ru
 static-pw.pixieset.com
 static.queue-it.net
+static.quiq-cdn.com
 static.raysweather.com
 static.rbxcdn.com
 static.rdc.moveaws.com
 static-redesign.cnbcfm.com
 static.reutersmedia.net
+static.rubyblu.com
 statics.985dh.com
 static.scarabresearch.com
 static.scroll.com
@@ -8452,10 +8980,12 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 static.smilewanted.com
 statics.myclickfunnels.com
 static.sojern.com
+static.solarwinds.com
 static.solutionshindsight.net
 static.spin.com
 static.spokenlayer.net
 static.sportbetting.ng
+statics.streamable.com
 static.tacdn.com
 static.tagmanager.toast.com
 static.tapfiliate.com
@@ -8464,6 +8994,7 @@ static.tidiochat.com
 static.tildacdn.com
 static.trackedweb.net
 static-tracking.klaviyo.com
+static.trbo.com
 static.trulia-cdn.com
 static.tsviewer.com
 static.tumblr.com
@@ -8471,6 +9002,7 @@ static.twitchcdn.net
 static-uat.advance.net
 staticu.bgcdn.com
 static.userback.io
+static-v2.trbo.com
 static.vavada.net
 static.vidazoo.com
 static.videoask.com
@@ -8479,6 +9011,7 @@ static.virgul.com
 static.vocstatic.com
 staticw2.yotpo.com
 static.websimages.com
+static.whatcounts.com
 static.whatsapp.net
 static.wixstatic.com
 static.wufoo.com
@@ -8493,22 +9026,26 @@ static.zbcdn2.net
 static.zbcdn3.net
 static.zbcdn.net
 static.zdassets.com
+static.ziffdavis.com
 static.zohocdn.com
 static.zotabox.com
 statistic.twingle.de
 stat.media
+stat.meetrics.net
 stat.profile.ameba.jp
 stats2.smilewanted.com
 stats2.videonow.ru
 stats.accessnow.orgpiwik.js
 stats.addsearch.com
 statsb.nativeroll.tv
+stats-collector.cxense.com
 statscollector.digital.vistaprint.com
 stats.datawrapper.de
 statse.webtrendslive.com
 statsf-tm.everesttech.net
 stats.gaslightmedia.com
 stats.g.doubleclick.net
+stats.kaltura.com
 statsofindia.in
 stats.pusher.com
 stats.sa-as.com
@@ -8536,6 +9073,7 @@ st.hzcdn.com
 stiffgame.com
 still-ridge-66846.herokuapp.com
 stitcher-1156c6e32e386fb.webchat.helpshift.com
+s.tmimgcdn.com
 st.mycdn.me
 st-n.ads1-adnow.com
 storage.buzzsprout.com
@@ -8556,6 +9094,7 @@ stp-tracker.inside-graph.com
 s.tradingview.com
 strato-editor.com
 strava-web-assets.s3.amazonaws.com
+streamable.com
 streaming.split.io
 streaming.webme.it
 stream-media.loc.gov
@@ -8575,6 +9114,7 @@ style.sndcdn.com
 styles.redditmedia.com
 su.addthis.com
 subnine.ru
+subscription.indianexpress.com
 s.udemycdn.com
 suite.linximpulse.net
 summerhamster.com
@@ -8613,6 +9153,7 @@ sun9-87.userapi.com
 sun9-8.userapi.com
 sundance.tv
 support.content.office.net
+support.couchsurfing.org
 survey.g.doubleclick.net
 surveygizmobeacon.s3.amazonaws.com
 surveys-static.survicate.com
@@ -8623,12 +9164,14 @@ s-usc1a-nss-2016.firebaseio.com
 s-usc1a-nss-2063.firebaseio.com
 s.usea01.idio.episerver.net
 s.uuidksinc.net
+s-v6exp1-ds.metric.gstatic.com
 svastx.moatads.com
 sv.bdstatic.com
 svc-prod-us.liveshopping.bambuser.com
 sv.intentflow.net
 s-vop.sundaysky.com
 svtstatic.se
+sw88.go.com
 swanbitcoin.com
 swi.pilot.ebu.io
 swi.reco.ebu.io
@@ -8691,6 +9234,7 @@ sync.rambler.ru
 sync.republer.com
 sync.resetdigital.co
 sync.richaudience.com
+sync.rubyblu.com
 sync.search.spotxchange.com
 sync.serverbid.com
 sync.sharethis.com
@@ -8742,6 +9286,7 @@ tag.getdrip.com
 tagging.production.sgtm.martech.squarecloudservices.com
 tag-gt.cartrawler.com
 taggy.cohesionapps.com
+tag.havasedge.com
 tag.idsync.analytics.yahoo.com
 tag.marinsm.com
 tag.measured.com
@@ -8792,8 +9337,10 @@ tailsofhead.dot-ui-development.com
 talkable.com
 tamgrt.com
 ta-native-styles.s3.us-east-2.amazonaws.com
+tandfhss.s3.amazonaws.com
 tapestry.tapad.com
 tapi.optimizely.com
+tapwithus.com
 targeting.api.drift.com
 targeting.perso.aws.arc.pub
 targeting.unrulymedia.com
@@ -8805,6 +9352,7 @@ taskonomy-api.epfl.ch
 tatmedia.ru
 tattle.api.osano.com
 tau.collect.igodigital.com
+t.av.st
 tawk.to
 tbcdn.talentbrew.com
 t.beop.io
@@ -8817,6 +9365,7 @@ tcr.tynt.com
 t.custora.com
 t.dcmn.io
 td-insider-discord.herokuapp.com
+tdn.da-services.ch
 tdn.r42tag.com
 t.dtscdn.com
 t.dtscout.com
@@ -8826,6 +9375,7 @@ tealium-f.squarecdn.com
 techly.com.au
 techmarket.ink
 tech.rtb.mts.ru
+techsmith.onfastspring.com
 techsmith.z6rjha.net
 tedxzgz.files.wordpress.com
 teenvogue.com
@@ -8860,6 +9410,7 @@ thechronicleofhighereducation.demdex.net
 thechronicleofhighereducation.sc.omtrdc.net
 thedrive-d.openx.net
 thefader-res.cloudinary.com
+thefontzone.com
 thehotelsnetwork.com
 theintercept.imgix.net
 theintercept-static.imgix.net
@@ -8898,12 +9449,15 @@ tickers.playtech.com
 tie.247-inc.net
 tiempo.com
 tiendamagiacom.api.oneall.com
+tieszhu.com
 tilda.rentafont.com
 tile.openstreetmap.org
 timber.sendtonews.com
 time-ae.akamaized.net
+time.akamai.com
 timemeredith-a.akamaihd.net
 timeoutcommunications.demdex.net
+timesofisrael-d.openx.net
 t.influ2.com
 tinnhiemmang.vn
 tiresomethunder.com
@@ -8921,9 +9475,19 @@ tls-ech-experiment.cloudflareresearch.com
 tls-use1.fpapi.io
 tlx.3lift.com
 t.me
+tmo-assets.fs.liveperson.com
+tmobile.15gifts.com
+tmobile-app.quantummetric.com
+tmobile.demdex.net
+tmobilees.mpeasylink.com
+t-mobilemoney.com
+t-mobile.scene7.com
+tmobile-sync.quantummetric.com
+tmobile.tt.omtrdc.net
 tms.fmm.io
 t.myvisualiq.net
 tn.alphonso.tv
+t.nativendo.de
 tnc-app.herokuapp.com
 tns-counter.ru
 tntwebsites.com
@@ -8931,6 +9495,7 @@ to.getnitropack.com
 to.go.saleswingsapp.com
 token.rubiconproject.com
 tokens.playmakerservices.com
+tokyo2020.org
 tomoson.com
 tongal.s3.amazonaws.com
 ton.twimg.com
@@ -8955,6 +9520,7 @@ tp88trk.com
 t.paypal.com
 tpcf.feedify.net
 tpc.googlesyndication.com
+tp.freshmarketer.com
 tp.realytics.io
 tps30.doubleverify.com
 tpsc-cac.doubleverify.com
@@ -8972,6 +9538,7 @@ trace.mediago.io
 track1.aniview.com
 track1.avplayer.com
 track2.securedvisit.com
+track2.trbo.com
 track.activemetering.com
 track.adform.net
 trackalyzer.com
@@ -8999,6 +9566,7 @@ tracking.audio.thisisdax.com
 tracking.chilipiper.com
 tracking.g2crowd.com
 tracking.inboxads.com
+tracking.intl.miui.com
 tracking.justpremium.com
 tracking.monsido.com
 tracking-na.hawksearch.com
@@ -9033,7 +9601,9 @@ trc.pushnami.com
 trc.taboola.com
 treasure1.justclick.ru
 tredir.go.com
+treehugger.com
 trendmd.com
+trends.netizen.co
 trends.revcontent.com
 trezor.go2cloud.org
 trial-eum-clientnsv4-s.akamaihd.net
@@ -9065,6 +9635,7 @@ tru.am
 truckersreportjobs.com
 truecar.com
 truleads.trufla.com
+trumba.com
 trustarc.mgr.consensu.org
 tr-v1.presage.io
 tr.vitals.co
@@ -9100,6 +9671,8 @@ twin-iq.kickfire.com
 twitter.com
 twitter.github.io
 tw.rightmessage.com
+twt-assets.washtimes.com
+twt-thumbs.washtimes.com
 typeface.nyt.com
 typeface.nytimes.com
 typescript.azureedge.net
@@ -9111,6 +9684,7 @@ u.a7.org
 uaadcodedsp.rontar.com
 u.acuityplatform.com
 uaid-linkage.imrworldwide.com
+ua.indianexpress.com
 u.alicdn.com
 uat1.hlserve.com
 uat-net.technoratimedia.com
@@ -9118,6 +9692,7 @@ uber-assets.com
 ubm.demdex.net
 ubmtech.d3.sc.omtrdc.net
 ubm.tt.omtrdc.net
+ucarecdn.com
 ucid.vindicosuite.com
 uciservice.com
 uconnect.tealiumiq.com
@@ -9153,6 +9728,7 @@ umanitaria.it
 umg.theappreciationengine.com
 ums.acuityplatform.com
 um.simpli.fi
+unagi.amazon.ca
 unagi.amazon.com
 unagi-eu.amazon.com
 unagi-na.amazon.com
@@ -9165,9 +9741,14 @@ unicons.iconscout.com
 unid.go.com
 unified.adsafeprotected.com
 uninterestedquarter.com
+united-app.quantummetric.com
+uniteddigital.siteintercept.qualtrics.com
 unitedstateslibraryofcongress.demdex.net
+united-sync.quantummetric.com
 united.tt.omtrdc.net
 units.knotch.it
+unitythumb.appuser.ch
+unityvideo.appuser.ch
 universal.iperceptions.com
 universcine-media-p-cdn.hexaglobe.net
 universcine.zendesk.com
@@ -9213,6 +9794,7 @@ us-as.gr-cdn.com
 usasync01.admantx.com
 uscensusbureau.demdex.net
 us-central1-adaptive-growth.cloudfunctions.net
+us-central1-ad-auris-tts-app.cloudfunctions.net
 us-central1-digitalproducts-gabbo.cloudfunctions.net
 us-central1-i-cnet-engagement-prod.cloudfunctions.net
 us-central1-sq-sgtm-prod.cloudfunctions.net
@@ -9225,6 +9807,7 @@ us-east1-idyllic-vehicle-159522.cloudfunctions.net
 us-east-1-web-oao.ssp.yahoo.com
 useast.quantumdex.io
 us-east-sync.bidswitch.net
+used-test.dpa.com
 use.fontawesome.com
 use.fonticons.com
 use.fortawesome.com
@@ -9240,6 +9823,7 @@ usersync.getpublica.com
 use.thiss.io
 use.typekit.com
 use.typekit.net
+us-gmtdmp.mookie1.com
 ushp-tool.mybluemix.net
 usicecenter.gov
 usllpic0i6rqsnlum2ug7xum75pejgn6aorr5hc41aa7bfac43533c5bsac.d.aa.online-metrix.net
@@ -9257,6 +9841,7 @@ uswidgets.fn.sportradar.com
 us-ws.gr-cdn.com
 usync.proper.io
 us.ynuf.aliapp.org
+utag.metrobyt-mobile.com
 ut.rd.linksynergy.com
 ut.rktch.com
 utt.impactcdn.com
@@ -9272,8 +9857,10 @@ v2.dc.yieldify.com
 v2.listenloop.com
 v2.pixel.newscgp.com
 v2.zopim.com
+v40.venusrevival.com
 v7w9zx952a.execute-api.ap-northeast-1.amazonaws.com
 v8.1c.ru
+va1.v.liveperson.net
 va6-bid.adsrvr.org
 vaccines.gov
 vad-bid.adsrvr.org
@@ -9302,6 +9889,7 @@ v-bgg3552i75.wc.yahoodns.net
 vc.hotjar.io
 vcs-va.byteoversea.com
 v-cz67l6rj5y.wc.yahoodns.net
+v.embed-cdn.com
 vendor1.quickspark.com
 vendorlist.consensu.org
 vendorlist.dmcdn.net
@@ -9325,9 +9913,11 @@ victor108.rtb.appier.net
 victor109.rtb.appier.net
 victor10.rtb.appier.net
 victor111.rtb.appier.net
+victor115.rtb.appier.net
 victor119.rtb.appier.net
 victor121.rtb.appier.net
 victor14.rtb.appier.net
+victor18.rtb.appier.net
 victor19.rtb.appier.net
 victor20.rtb.appier.net
 victor22.rtb.appier.net
@@ -9340,6 +9930,7 @@ victor52.rtb.appier.net
 victor57.rtb.appier.net
 victor58.rtb.appier.net
 victor59.rtb.appier.net
+victor60.rtb.appier.net
 victor66.rtb.appier.net
 victor73.rtb.appier.net
 victor75.rtb.appier.net
@@ -9352,6 +9943,7 @@ victor88.rtb.appier.net
 victor89.rtb.appier.net
 victor91.rtb.appier.net
 victor92.rtb.appier.net
+victor93.rtb.appier.net
 victor94.rtb.appier.net
 victor96.rtb.appier.net
 victor97.rtb.appier.net
@@ -9374,8 +9966,10 @@ video.cdninstagram.com
 videoclientsservicescalls.outbrain.com
 video-edge-0778af.pdx01.abs.hls.ttvnw.net
 video-edge-159243.pdx01.abs.hls.ttvnw.net
+video-edge-ac37d8.pdx01.abs.hls.ttvnw.net
 videopal.me
 videoplayercdn.osi.office.net
+videoplayer.smdg.ca
 video.primis.tech
 videos.brydanteam.net
 videos-cloudflare.jwpsrv.com
@@ -9439,6 +10033,8 @@ vod-progressive.akamaized.net
 vod.wix.com
 vogue.com
 volume-assets.voxmedia.com
+volvo.goquiq.com
+volvo.quiq-api.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net
 voxcustomdfp152282307853.s.moatpixel.com
@@ -9465,6 +10061,7 @@ vue.comm100.com
 vultr.com
 vuukle.com
 vuzix-shop.myshopify.com
+vwonwkaqvq-a.global.ssl.fastly.net
 v.w-x.co
 vz.lt
 vzw.15gifts.com
@@ -9483,10 +10080,14 @@ wal.wolfram.com
 wa.onelink.me
 wap.wovn.io
 warehouse-camo.ingress.cmh1.psfhosted.org
+warmquiver.com
 warp.media.net
 warpnet.bleepstores.com
 warriorplus.com
+wartung.fooby.ch
+wasabi-files.lbstatic.nu
 washingtonpost-d.openx.net
+washingtontimes-d.openx.net
 waust.at
 wave.sndcdn.com
 waves.retentionscience.com
@@ -9499,6 +10100,7 @@ wcpstatic.microsoft.com
 wcs.naver.com
 wcs.naver.net
 weather.com
+weather.da-services.ch
 weather.gr
 weatherus-d.openx.net
 weatherwidget.io
@@ -9508,6 +10110,7 @@ webanalytics.cfapps.eu10.hana.ondemand.com
 webapps-cdn.esri.com
 webbot.me
 web.btncdn.com
+webchannel-content.eservice.emarsys.net
 webchannel-content-service.scarabresearch.com
 webchat.helpshift.com
 web-chat-tag-cdn.s3.eu-west-1.amazonaws.com
@@ -9540,6 +10143,7 @@ webshopbackend-static.cdn-one.com
 websitedemos.net
 websitelinktree.gatsbyjs.io
 web.ssp.yahoo.com
+webstats.ch.ch
 webstats.eb.com
 webtraxs.com
 web-vitals.bfops.io
@@ -9551,6 +10155,7 @@ weby.aaas.org
 wec-assets-api.terminus.services
 wec-assets.terminus.services
 weebly.com
+wefunder-production.s3.amazonaws.com
 westcoastplasticsurgery.com.au
 westus2-2.in.applicationinsights.azure.com
 weworkremotely.com
@@ -9621,6 +10226,7 @@ widget.wickedreports.com
 wileypublishing.demdex.net
 wileypublishing.sc.omtrdc.net
 wing-wp.com
+winless.org
 wired.com
 wish.pxf.io
 wix.com
@@ -9667,14 +10273,17 @@ ws11.hotjar.com
 ws12.hotjar.com
 ws13.hotjar.com
 ws14.hotjar.com
+ws15.hotjar.com
 ws20.hotjar.com
 ws21.hotjar.com
 ws22.hotjar.com
+ws27.hotjar.com
 ws2.hotjar.com
 ws34.hotjar.com
 ws36.hotjar.com
 ws3.hotjar.com
 ws8.hotjar.com
+ws-assets.zoominfo.com
 ws.audioeye.com
 ws-cloudpath.media.nbcuni.com
 wsdk-files.webengage.com
@@ -9790,6 +10399,7 @@ yhanleal.bandcamp.com
 yhb.p.otm-r.com
 yield-manager.browsiprod.com
 yield-op-idsync.live.streamtheworld.com
+yj-a.p.adnxs.com
 yjtag.yahoo.co.jp
 yl146.com
 yleawsmpodamdipv4.akamaized.net
@@ -9819,7 +10429,12 @@ z134105974.webengage.co
 z6dz6ol7kwh3rrdu8cbq0itxheycj1650820656.nuid.imrworldwide.com
 z71681296.webengage.co
 z8tsnsg80b0g.statuspage.io
+zagent1356.h-cdn.com
+zagent1542.h-cdn.com
+zagent231.h-cdn.com
+zagent28.h-cdn.com
 zagent29.h-cdn.com
+zagent878.h-cdn.com
 zapier-images.imgix.net
 zazzle.attn.tv
 zdbb.net
@@ -9827,6 +10442,7 @@ zdbb.netshelter.net
 zenaps.com
 zendesk.tv
 zen-marketing-assets.s3-us-west-2.amazonaws.com
+zergnet.com
 ziffdavis-d.openx.net
 zigqnx.com
 zillowstatic.com
@@ -9844,6 +10460,7 @@ zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2axi2dsrg02wsi2-lgelectronics.siteintercept.qualtrics.com
 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
+zn3edajdvgwonv9nr-tmobilecx.siteintercept.qualtrics.com
 zn3l4ip8xujuihhkj-ascap.siteintercept.qualtrics.com
 zn3owdqdlxu72cwnv-nejm.siteintercept.qualtrics.com
 zn3wrtsyl9wwqdlxb-uscisomnichannel.gov1.siteintercept.qualtrics.com
@@ -9858,6 +10475,7 @@ zn6mcrij6xncfajof-adidastrial.siteintercept.qualtrics.com
 zn6rk6tr2d4thcrsb-lds.siteintercept.qualtrics.com
 zn6sdb0uwojrglmmn-fandango.siteintercept.qualtrics.com
 zn_77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
+zn7nxdooakbxedrih-lds.siteintercept.qualtrics.com
 zn7whwrcrmbs9xwyd-nlmenterprise.siteintercept.qualtrics.com
 zn88jixcivzfb3vpp-nci.siteintercept.qualtrics.com
 zn8gphcgytqdrmaea-frontiersin.siteintercept.qualtrics.com
@@ -9865,6 +10483,7 @@ zn8nyvgbt59q9merx-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 zn8p1dph4rgqzwv0x-move.siteintercept.qualtrics.com
 zn8qfk42azo5fsr2r-trdigital.siteintercept.qualtrics.com
 zn9gnmr4g3ce3ts9l-fandango.siteintercept.qualtrics.com
+zn9nsdspghk6lylq5-medicare.gov1.siteintercept.qualtrics.com
 zn9ogeu2akhc6qjuw-hiltonreservations.siteintercept.qualtrics.com
 zn9ykzvxooaxghil3-rei.siteintercept.qualtrics.com
 z-na.amazon-adsystem.com
@@ -9894,6 +10513,7 @@ z.omappapi.com
 zoom.ada.support
 zs25.cnzz.com
 ztj5upttpq-dsn.algolia.net
+zuba.prod.tda.link
 zuken.zendesk.com
 zuyapixel.com
 zz.connextra.com
