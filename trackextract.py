@@ -3,7 +3,7 @@ from collections import Counter
 import json
 import os
 
-urls = open('general.txt')
+urls = open('urls.txt')
 urls = urls.readlines()
 items = []
 thirdparty = []
